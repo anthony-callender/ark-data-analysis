@@ -1,0 +1,1212 @@
+question_id,question_text,answer_id,answer_text,grade_level,academic_year_id,avg_knowledge_pct,student_count
+2,Who is the Bread of Life? ,2,Jesus,4,2,76.16707616707616,22
+4,What takes place at Mass? ,9,Bread and wine become the Body and Blood of Jesus,4,2,75.54697554697555,21
+4,What takes place at Mass? ,10,Bread and wine are shown as symbols for Jesus ,4,2,89.1891891891892,1
+12,What word best describes God's call for us to take care of creation? ,37,Tolerance ,4,2,54.70068539281328,1174
+12,What word best describes God's call for us to take care of creation? ,38,Importance,4,2,55.026891902128625,3070
+12,What word best describes God's call for us to take care of creation? ,39,Stewardship ,4,2,62.20330855909854,3298
+12,What word best describes God's call for us to take care of creation? ,40,Cleanliness,4,2,56.991486381896586,2524
+13,Which of the following best describes the Beatitudes? ,41,Rules to avoid sin,4,2,57.48525323750763,4116
+13,Which of the following best describes the Beatitudes? ,42,The 10 greatest saints who ever lived,4,2,49.346840287889506,1118
+13,Which of the following best describes the Beatitudes? ,43,Everything needed to celebrate Mass,4,2,52.24361645967047,837
+13,Which of the following best describes the Beatitudes? ,44,Part of Jesus’ teaching on how to be perfectly happy,4,2,61.71210805708192,3990
+14,Which is NOT a Spiritual Work of Mercy? ,45,Instructing the ignorant ,4,2,55.829132480646784,2911
+14,Which is NOT a Spiritual Work of Mercy? ,46,Feeding the hungry,4,2,64.11516672271516,2697
+14,Which is NOT a Spiritual Work of Mercy? ,47,Admonishing the sinner,4,2,56.109278184598054,2890
+14,Which is NOT a Spiritual Work of Mercy? ,48,Counseling the doubtful,4,2,53.8529066047702,1563
+31,Stories Jesus told are called:,1621,Parables,4,2,84.1995841995842,13
+31,Stories Jesus told are called:,1631,Gospels,4,2,64.56456456456456,9
+36,Who or what is made in the image and likeness of God?,125,Human beings,4,2,73.5966735966736,13
+36,Who or what is made in the image and likeness of God?,128,The Universe ,4,2,79.87987987987988,9
+51,"What do we call the Father, the Son, and the Holy Spirit? ",1681,The Trinity ,4,2,79.5608108108108,16
+51,"What do we call the Father, the Son, and the Holy Spirit? ",1701,The Holy Family ,4,2,59.45945945945946,3
+51,"What do we call the Father, the Son, and the Holy Spirit? ",1711,All of these,4,2,74.77477477477477,3
+71,When did Jesus give us the Eucharist?,1761,After He ascended,4,2,78.37837837837837,1
+71,When did Jesus give us the Eucharist?,1791,At the Last Supper,4,2,76.06177606177606,21
+87,How did God save us from sin?,310,He made it so we can't sin anymore,4,2,51.351351351351354,1
+87,How did God save us from sin?,311,He let us give Him sacrifices,4,2,64.86486486486487,1
+87,How did God save us from sin?,312,He sent His Son into the world,4,2,77.97297297297297,20
+88,What did Jesus come to earth to do? ,314,Save souls,4,2,76.75675675675676,20
+88,What did Jesus come to earth to do? ,315,Build a temple for Himself,4,2,83.78378378378379,1
+88,What did Jesus come to earth to do? ,316,Find the Holy Grail,4,2,56.75675675675676,1
+89,_________ breaks our friendship with God. ,319,Mortal sin,4,2,76.24466571834994,19
+89,_________ breaks our friendship with God. ,320,Venial sin,4,2,75.67567567567568,3
+90,Who is the Lord's Prayer said to?,321,God the Father,4,2,86.71171171171171,12
+90,Who is the Lord's Prayer said to?,322,Jesus,4,2,58.108108108108105,2
+90,Who is the Lord's Prayer said to?,323,The Holy Spirit,4,2,62.16216216216216,6
+90,Who is the Lord's Prayer said to?,324,St. Peter,4,2,72.97297297297297,2
+91,Who is the Mother of God? ,1851,The Virgin Mary ,4,2,76.44787644787645,21
+91,Who is the Mother of God? ,1861,Anna,4,2,70.27027027027027,1
+93,We should pray: ,332,Every day,4,2,76.16707616707616,22
+94,Who should NOT receive communion? ,333,Someone who needs to confess a mortal sin,4,2,91.89189189189189,1
+94,Who should NOT receive communion? ,334,Someone who is not Catholic,4,2,71.38314785373609,17
+94,Who should NOT receive communion? ,336,All of these,4,2,92.56756756756756,4
+95,What do we call a priest who is in charge of a parish church?,337,Bishop,4,2,75.67567567567568,10
+95,What do we call a priest who is in charge of a parish church?,338,Pastor,4,2,82.77027027027027,8
+95,What do we call a priest who is in charge of a parish church?,339,Deacon,4,2,64.1891891891892,4
+96,Humans have a body and a soul. Our soul will live __________.,341,Forever,4,2,76.96267696267697,21
+96,Humans have a body and a soul. Our soul will live __________.,344,If God wants it to,4,2,59.45945945945946,1
+97,I am confirmed/I plan to be confirmed.,408,Yes,4,2,58.81523900359486,7734
+97,I am confirmed/I plan to be confirmed.,409,No,4,2,55.12995242516664,2263
+101,The season before Christmas is called ________. ,1881,Advent,4,2,81.75675675675676,16
+101,The season before Christmas is called ________. ,1891,Lent,4,2,55.4054054054054,2
+101,The season before Christmas is called ________. ,1901,Easter,4,2,56.75675675675676,1
+101,The season before Christmas is called ________. ,1911,Ordinary Time,4,2,66.66666666666667,3
+111,"Which season is made up of prayer, fasting, and almsgiving? ",1921,Advent,4,2,56.75675675675676,1
+111,"Which season is made up of prayer, fasting, and almsgiving? ",1931,Triduum,4,2,64.86486486486487,1
+111,"Which season is made up of prayer, fasting, and almsgiving? ",1951,Lent,4,2,77.70270270270271,20
+115,I should help everyone to show them God's love.,405,This is true,4,2,58.27831054632804,9494
+115,I should help everyone to show them God's love.,406,This is not true,4,2,46.67774086378738,98
+115,I should help everyone to show them God's love.,407,Not sure,4,2,53.69034566333891,403
+116,My parents bring me to Church often and we pray together.,410,Yes,4,2,59.274805477337125,6162
+116,My parents bring me to Church often and we pray together.,411,No,4,2,55.90090335803738,3837
+117,Holy Communion looks like bread and wine but is really Jesus' Body and Blood.,412,This is true,4,2,59.077878459784856,8273
+117,Holy Communion looks like bread and wine but is really Jesus' Body and Blood.,413,This is not true,4,2,52.12354130538496,830
+117,Holy Communion looks like bread and wine but is really Jesus' Body and Blood.,414,Not sure,4,2,52.82232846904914,801
+118,Whom did God promise he would have descendants as numerous as the stars?,415,Adam,4,2,52.85244471290983,1386
+118,Whom did God promise he would have descendants as numerous as the stars?,416,Noah,4,2,52.27202045682297,1346
+118,Whom did God promise he would have descendants as numerous as the stars?,417,Abraham,4,2,63.90649367015495,4428
+118,Whom did God promise he would have descendants as numerous as the stars?,418,Moses,4,2,53.47955092221331,2900
+119,The _______ is the leader of the earthly Church.,419,Oldest bishop,4,2,49.77789391168017,890
+119,The _______ is the leader of the earthly Church.,420,Pope,4,2,60.80006990336507,7186
+119,The _______ is the leader of the earthly Church.,421,Parish priest,4,2,51.00358219139137,1226
+119,The _______ is the leader of the earthly Church.,422,Deacon,4,2,50.081410709348404,757
+120,What is the difference between mortal and venial sin?,423,"Mortal sin breaks our relationship with God, while venial sin only damages it",4,2,60.756138341137174,6272
+120,What is the difference between mortal and venial sin?,424,"Mortal sin is absolute, but venial sin is relative",4,2,52.8343023255814,1056
+120,What is the difference between mortal and venial sin?,425,"Mortal sin is only done by mortals, but divine beings can commit venial sins",4,2,46.86898675023366,846
+120,What is the difference between mortal and venial sin?,426,"Mortal sin is done with complete consent, but venial sin can be done unwillingly",4,2,55.77819428345952,1886
+121,Which is not a liturgical season?,1981,Ordinary time,4,2,78.37837837837837,1
+121,Which is not a liturgical season?,1991,Fall,4,2,76.06177606177606,21
+122,What is an effect of building good habits?,427,Having less control over our emotions,4,2,47.7700499891328,1070
+122,What is an effect of building good habits?,428,It gets easier to do good,4,2,60.115830548765445,8295
+122,What is an effect of building good habits?,429,We are more likely to sin,4,2,46.670402540394136,498
+122,What is an effect of building good habits?,430,We no longer need God's grace,4,2,44.11557434813249,198
+123,In which prayer do we think about the Sorrowful Mysteries?,431,The Our Father,4,2,52.132948491360125,1829
+123,In which prayer do we think about the Sorrowful Mysteries?,432,The Rosary,4,2,61.83076712203591,5090
+123,In which prayer do we think about the Sorrowful Mysteries?,433,The Angelus,4,2,56.00957592339261,1700
+123,In which prayer do we think about the Sorrowful Mysteries?,434,The Glory Be,4,2,53.06274376527326,1437
+124,What is the role of the priest in Confession?,435,Confession of sins to a priest is not necessary,4,2,41.265116279069765,250
+124,What is the role of the priest in Confession?,436,The priest forgives our sins under his own power,4,2,46.83862191644649,889
+124,What is the role of the priest in Confession?,437,The priest forgives our sins in Jesus' name,4,2,59.59388311241633,8789
+124,What is the role of the priest in Confession?,438,The priest has no role in confession,4,2,45.348837209302324,134
+125,"What are the virtues of faith, hope, and love called? ",439,Cardinal virtues,4,2,59.20057339596319,1817
+125,"What are the virtues of faith, hope, and love called? ",440,Theological virtues,4,2,63.192803548480704,1683
+125,"What are the virtues of faith, hope, and love called? ",441,Spiritual virtues,4,2,56.7758050419016,5427
+125,"What are the virtues of faith, hope, and love called? ",442,Natural virtues,4,2,52.6660104179484,1134
+127,Which is NOT a Corporal Work of Mercy?,447,Feeding the hungry,4,2,45.447255230735585,319
+127,Which is NOT a Corporal Work of Mercy?,448,Sheltering the homeless,4,2,48.589668425509736,357
+127,Which is NOT a Corporal Work of Mercy?,449,Bearing wrongs patiently,4,2,58.86263884844198,8944
+127,Which is NOT a Corporal Work of Mercy?,450,Visiting the sick,4,2,52.985543683218104,444
+128,Someone who prays for others is a/an ___________.,451,Wanderer,4,2,48.54277789630894,545
+128,Someone who prays for others is a/an ___________.,452,Intercessor,4,2,61.11827190288138,5087
+128,Someone who prays for others is a/an ___________.,453,Favor seeker,4,2,51.395348837209305,1300
+128,Someone who prays for others is a/an ___________.,454,Neighbor,4,2,56.74151040156971,3129
+129,What is virtue?,455,A habit of doing the right things,4,2,62.16049716742771,5587
+129,What is virtue?,456,Memorizing the rules of Christianity,4,2,53.037364263989915,2011
+129,What is virtue?,457,Another word for an angel,4,2,48.60852713178294,600
+129,What is virtue?,458,One of the sacraments,4,2,52.93098073445975,1865
+130,I have received First Communion.,459,Yes,4,2,58.91594342964663,8158
+130,I have received First Communion.,460,No,4,2,53.62228995601686,1753
+161,Before confession we should examine our _______. ,2121,Feelings,4,2,66.96696696696696,9
+161,Before confession we should examine our _______. ,2131,Conscience,4,2,82.53638253638253,13
+171,Our conscience helps us do ______ and avoid evil. ,2181,Sins,4,2,56.75675675675676,1
+171,Our conscience helps us do ______ and avoid evil. ,2191,Good  ,4,2,77.0913770913771,21
+181,The ability to choose how we act is called ___________.,2201,Moral sin,4,2,52.7027027027027,2
+181,The ability to choose how we act is called ___________.,2231,Free will ,4,2,78.51351351351352,20
+207,How many sacraments are there?,731,Three,4,2,54.054054054054056,1
+207,How many sacraments are there?,732,Ten,4,2,51.351351351351354,1
+207,How many sacraments are there?,733,Seven,4,2,78.51351351351352,20
+208,Who were the apostles?,736,Jesus’ 12 closest followers,4,2,77.0913770913771,21
+208,Who were the apostles?,738,Everyone who has seen a miracle,4,2,56.75675675675676,1
+209,What do we call the event when Jesus went up into heaven?,739,The Incarnation,4,2,74.13127413127413,7
+209,What do we call the event when Jesus went up into heaven?,740,The Ascension,4,2,78.95752895752896,14
+209,What do we call the event when Jesus went up into heaven?,742,The Real Presence,4,2,51.351351351351354,1
+251,What Sacrament forgives Original Sin?,2481,Anointing of the Sick,4,2,51.351351351351354,1
+251,What Sacrament forgives Original Sin?,2491,Baptism,4,2,81.98198198198199,9
+251,What Sacrament forgives Original Sin?,2501,Confirmation,4,2,75.67567567567568,11
+251,What Sacrament forgives Original Sin?,2511,Holy Orders,4,2,54.054054054054056,1
+261,A priest hears confession. He is acting in the person of ____________. ,2521,St. Peter,4,2,58.108108108108105,2
+261,A priest hears confession. He is acting in the person of ____________. ,2531,Jesus,4,2,80.7631160572337,17
+261,A priest hears confession. He is acting in the person of ____________. ,2541,Mary,4,2,62.16216216216216,3
+311,Scripture read in the Mass is the _____.,2721,Liturgy of the Word,4,2,81.44144144144144,15
+311,Scripture read in the Mass is the _____.,2731,Liturgy of the Eucharist,4,2,64.86486486486487,2
+311,Scripture read in the Mass is the _____.,2741,Liturgy of the Bible,4,2,64.86486486486487,5
+323,Who has the power to forgive sins in Jesus' name?,1147,Everyone,4,2,70.94594594594595,4
+323,Who has the power to forgive sins in Jesus' name?,1148,All Christians,4,2,55.4054054054054,2
+323,Who has the power to forgive sins in Jesus' name?,1150,Priests and bishops,4,2,80.06756756756756,16
+341,Mario waits without complaining. He has _____________.,2861,Kindness,4,2,56.75675675675676,3
+341,Mario waits without complaining. He has _____________.,2871,Patience,4,2,79.23186344238975,19
+361,A habit of doing good is called _________.,2921,Confirmation,4,2,64.86486486486487,4
+361,A habit of doing good is called _________.,2931,Virtue,4,2,85.995085995086,11
+361,A habit of doing good is called _________.,2941,Value,4,2,71.17117117117117,3
+361,A habit of doing good is called _________.,2951,Truth ,4,2,64.1891891891892,4
+367,Where are the Gospels found in the Bible?,1296,The New Testament,4,2,90.54054054054055,2
+367,Where are the Gospels found in the Bible?,1297,The Old Testament,4,2,69.1891891891892,5
+367,Where are the Gospels found in the Bible?,1298,Both the Old and New Testaments,4,2,76.83397683397683,14
+367,Where are the Gospels found in the Bible?,1299,They are not in the Bible,4,2,72.97297297297297,1
+368,Which books make up the Gospels?,1300,The New Testament,4,2,55.85585585585586,3
+368,Which books make up the Gospels?,1301,"Matthew, Mark, Luke, and John",4,2,79.42942942942943,18
+368,Which books make up the Gospels?,1302,The Catechism and the Bible,4,2,78.37837837837837,1
+369,The act of _______ is the prayer of Confession.,1305,Contrition,4,2,77.16216216216216,20
+369,The act of _______ is the prayer of Confession.,1306,Adoration,4,2,66.21621621621621,2
+370,What are Jesus’ two Great Commandments?,1308,Go forth and sin no more,4,2,64.86486486486487,1
+370,What are Jesus’ two Great Commandments?,1309,Love God and love your neighbor,4,2,77.56756756756756,20
+370,What are Jesus’ two Great Commandments?,1310,Repent and believe,4,2,59.45945945945946,1
+372,What is the Act of Contrition?,1312,A prayer before Holy Communion,4,2,54.054054054054056,1
+372,What is the Act of Contrition?,1313,A prayer where we thank God for blessing us,4,2,67.56756756756756,2
+372,What is the Act of Contrition?,1314,A prayer where we tell God we are sorry for our sins,4,2,78.23613086770982,19
+379,Why are some souls sent to purgatory?,1340,They rejected God’s love,4,2,52.81949537060291,2778
+379,Why are some souls sent to purgatory?,1341,They need to be purified of sin,4,2,62.94666660022623,4667
+379,Why are some souls sent to purgatory?,1342,They did not sin or do good,4,2,54.01728318713688,1429
+379,Why are some souls sent to purgatory?,1343,They need to wait for Jesus to save them later,4,2,53.889334402566156,1189
+380,What are feast days?,1344,Days where we eat as much as we want,4,2,46.35543214161749,536
+380,What are feast days?,1345,Days when we go grocery shopping,4,2,39.20265780730897,56
+380,What are feast days?,1346,Days we celebrate a saint or holy event,4,2,58.84796152584982,9148
+380,What are feast days?,1347,Days when gluttony is not a sin,4,2,48.34108527131783,225
+382,Which is an effect of Holy Communion?,1348,It forgives mortal sin,4,2,57.451624356470795,4192
+382,Which is an effect of Holy Communion?,1349,It erases original sin,4,2,57.43534311465768,2925
+382,Which is an effect of Holy Communion?,1350,It helps us love the poor,4,2,64.67525762106577,1081
+382,Which is an effect of Holy Communion?,1351,It takes the place of confession,4,2,55.23599096231385,1863
+741,_____ is another word for Jesus' suffering and death.,4441,Sin,4,2,52.481161666021016,1861
+741,_____ is another word for Jesus' suffering and death.,4451,Coronation,4,2,56.25139015891061,2823
+741,_____ is another word for Jesus' suffering and death.,4461,Passion,4,2,64.23298485171752,2725
+741,_____ is another word for Jesus' suffering and death.,4471,Exodus,4,2,56.931798965814934,2613
+761,Who is NOT someone with whom God made a covenant?,4521,Noah,4,2,50.062555195760964,632
+761,Who is NOT someone with whom God made a covenant?,4531,Moses,4,2,46.357341762625126,618
+761,Who is NOT someone with whom God made a covenant?,4541,Abraham,4,2,46.53128070750082,710
+761,Who is NOT someone with whom God made a covenant?,4551,Job,4,2,60.39391912926174,8068
+771,How did God test Abraham's faith?,4561,He told him he could eat from any tree except one,4,2,49.865992908791426,1666
+771,How did God test Abraham's faith?,4571,He told him to sacrifice his son,4,2,62.58125703898362,5885
+771,How did God test Abraham's faith?,4581,He told him to build an ark,4,2,49.77395502088043,1214
+771,How did God test Abraham's faith?,4591,He took away his family and his home,4,2,54.45721114072985,1265
+791,With whom did God make a covenant through Moses?,4641,The People of Israel,4,2,61.76050407846062,5551
+791,With whom did God make a covenant through Moses?,4651,The Holy Family,4,2,48.83866917765223,1593
+791,With whom did God make a covenant through Moses?,4661,Cain and Abel,4,2,49.36625151548551,633
+791,With whom did God make a covenant through Moses?,4671,The Egyptians,4,2,57.1686510802501,2254
+821,Which is not made in the image and likeness of God?,4761,A baby growing in her mother's womb,4,2,51.58381338453879,1635
+821,Which is not made in the image and likeness of God?,4771,A very sick and elderly person,4,2,52.60287231537918,1778
+821,Which is not made in the image and likeness of God?,4781,A beloved family dog,4,2,62.86254351377473,5438
+821,Which is not made in the image and likeness of God?,4791,A child with a disability,4,2,51.69249552015438,1181
+841,What are feast days?,4841,Days where we eat as much as want,4,2,51.16279069767442,11
+841,What are feast days?,4861,Days we celebrate a saint or holy event,4,2,57.264021887824896,85
+841,What are feast days?,4871,Days when gluttony is not a sin,4,2,44.18604651162791,2
+851,Who is called to be holy?,4881,"Priests, bishops, and deacons",4,2,50.19111920837352,1302
+851,Who is called to be holy?,4891,Saints,4,2,52.58102057320946,1179
+851,Who is called to be holy?,4901,Everyone,4,2,60.82171415847485,7102
+851,Who is called to be holy?,4911,People who have never sinned,4,2,47.8523178466457,451
+861,To covet means to__________.,4921,Envy or Desire,4,2,62.70657582302194,3898
+861,To covet means to__________.,4931,Steal,4,2,56.17240053815107,2420
+861,To covet means to__________.,4941,Destroy,4,2,49.172545945475136,534
+861,To covet means to__________.,4951,Praise,4,2,54.76225278821277,3182
+871,What does the Fourth Commandment tell us to do?,4961,Raise children of our own,4,2,38.98562580343578,199
+871,What does the Fourth Commandment tell us to do?,4971,Obey our parents when they ask us to sin,4,2,50.712821883631825,1044
+871,What does the Fourth Commandment tell us to do?,4981,Treat our parents as equals,4,2,46.23477297895903,504
+871,What does the Fourth Commandment tell us to do?,4991,Respect and love our parents,4,2,59.945141857099586,8292
+881,Jesus gave us the Beatitudes in the Sermon on the ____________.,5001,Hill,4,2,57.027822847184666,3483
+881,Jesus gave us the Beatitudes in the Sermon on the ____________.,5011,Quarry,4,2,52.81775755911997,1186
+881,Jesus gave us the Beatitudes in the Sermon on the ____________.,5021,River,4,2,51.064437323519144,1466
+881,Jesus gave us the Beatitudes in the Sermon on the ____________.,5031,Mount,4,2,62.7323348122562,3905
+901,What is sin?,5081,A failure to love God and neighbor,4,2,60.13584101392834,7769
+901,What is sin?,5091,A choice to do what makes us happy,4,2,49.33250783577758,601
+901,What is sin?,5101,Any use of free will,4,2,50.562037753984995,871
+901,What is sin?,5111,Taking care of the body instead of the soul,4,2,50.310270834541555,802
+911,What is temptation?,5121,A not very serious sin,4,2,46.905104339095274,857
+911,What is temptation?,5131,An urge to sin,4,2,61.0396468326891,7707
+911,What is temptation?,5141,A demon,4,2,48.695729065346185,526
+911,What is temptation?,5151,One of the seven deadly sins,4,2,47.212722298221614,952
+931,What are the two Great Commandments?,5201,Worship God alone and do not take His name in vain,4,2,55.95677171904562,3159
+931,What are the two Great Commandments?,5211,Love God with your whole heart and know Him with your whole mind,4,2,54.39204249944275,2504
+931,What are the two Great Commandments?,5221,"Love God, and love your neighbor as yourself",4,2,62.22448382888759,4136
+931,What are the two Great Commandments?,5231,Go forth to all the nations and baptize all peoples,4,2,44.63981849120817,246
+941,What is the New Commandment?,5241,Give everyone what they ask for,4,2,42.31774235693755,178
+941,What is the New Commandment?,5251,Try to become God,4,2,42.076144036009005,248
+941,What is the New Commandment?,5261,Spread Jesus’ teachings throughout the world,4,2,54.908665400758146,3319
+941,What is the New Commandment?,5271,Love one another as Jesus loved us,4,2,60.49095197144787,6301
+971,What should we do before going to Confession?,5361,Go to Mass,4,2,50.59950403504137,2729
+971,What should we do before going to Confession?,5371,Examine our conscience,4,2,62.51328517644516,6455
+971,What should we do before going to Confession?,5381,Anoint ourselves with oil,4,2,46.990982439487425,490
+971,What should we do before going to Confession?,5391,Point out the sins of others,4,2,44.87187480516241,373
+991,How should we form our consciences?,5441,Studying the universe,4,2,44.22720724428895,339
+991,How should we form our consciences?,5451,Doing good things and forming good habits,4,2,60.24827074382657,8022
+991,How should we form our consciences?,5461,Doing what makes us feel good,4,2,49.726538896549584,1501
+991,How should we form our consciences?,5471,Ignoring our feelings,4,2,45.601617795753285,184
+1001,How was Adam different from everything else God created on earth?,5481,He could know and love God,4,2,59.323804851820746,8391
+1001,How was Adam different from everything else God created on earth?,5491,He walked on two legs,4,2,51.751626206368776,1094
+1001,How was Adam different from everything else God created on earth?,5501,He was hairless,4,2,47.617232176896685,305
+1001,How was Adam different from everything else God created on earth?,5511,He had lungs,4,2,48.40454299621417,258
+1011,When do we say the Act of Contrition?,5521,During confession,4,2,60.56966443118118,7563
+1011,When do we say the Act of Contrition?,5531,After we are confirmed,4,2,51.490784434052095,1099
+1011,When do we say the Act of Contrition?,5541,At the end of each Mass,4,2,49.03304773561811,1140
+1011,When do we say the Act of Contrition?,5551,At the start of each school year,4,2,43.905855982067806,249
+1021,What is the short blessing we say when we begin to pray?,5561,Sign of the Cross,4,2,59.44029265743402,8900
+1021,What is the short blessing we say when we begin to pray?,5571,Act of Contrition,4,2,44.86913807659836,303
+1021,What is the short blessing we say when we begin to pray?,5581,Ave Maria,4,2,40.77975376196991,170
+1021,What is the short blessing we say when we begin to pray?,5591,The Lord's Prayer,4,2,47.06647943281844,679
+1031,In what kind of prayer do we ask God for good things?,5601,Prayer of Praise,4,2,52.56333510283836,2059
+1031,In what kind of prayer do we ask God for good things?,5611,Blessing and Adoration,4,2,55.22219663826848,2020
+1031,In what kind of prayer do we ask God for good things?,5621,Prayer of Thanksgiving,4,2,55.45844452916508,2440
+1031,In what kind of prayer do we ask God for good things?,5631,Prayer of Petition,4,2,64.0883905186823,3534
+1061,"If we feel distracted while praying, what should we do?",5721,Do something else for a while,4,2,41.524685984330304,187
+1061,"If we feel distracted while praying, what should we do?",5731,Take a nap,4,2,34.81104651162791,64
+1061,"If we feel distracted while praying, what should we do?",5741,Ask God to help us focus,4,2,58.690127029991444,9625
+1061,"If we feel distracted while praying, what should we do?",5751,Wait at least 3 days before praying again,4,2,37.679644630258686,178
+1071,What is Transubstantiation?,5761,The conversion of bread and wine into the real Body and Blood of Jesus,4,2,61.236246743689414,5151
+1071,What is Transubstantiation?,5771,The process of becoming a priest,4,2,55.45565944750793,1746
+1071,What is Transubstantiation?,5781,The sharing of the Good News of salvation,4,2,51.96291034173334,1244
+1071,What is Transubstantiation?,5791,"Jesus’ Passion, Death, Resurrection, and Ascension",4,2,54.715559767684866,1914
+1091,What does the Church teach us about Holy Communion?,5841,Receive the Eucharist at least once a year,4,2,51.6781898177247,925
+1091,What does the Church teach us about Holy Communion?,5851,Receive the Eucharist only in a state of grace,4,2,55.31238520444206,1646
+1091,What does the Church teach us about Holy Communion?,5861,Receive the Eucharist daily if possible,4,2,58.079239945678204,4127
+1091,What does the Church teach us about Holy Communion?,5871,All of these,4,2,60.490740612490825,3358
+1111,What is a result of Baptism?,5921,We are cleansed from sin,4,2,51.097020085333156,1379
+1111,What is a result of Baptism?,5931,We become a member of the Church,4,2,53.386447415360045,1369
+1111,What is a result of Baptism?,5941,We become a child of God,4,2,48.600079995428835,814
+1111,What is a result of Baptism?,5951,All of these,4,2,61.36598814830729,6495
+1131,Which is not a virtue?,6001,Faith,4,2,42.884305982155915,159
+1131,Which is not a virtue?,6011,Hope,4,2,40.88881809493469,146
+1131,Which is not a virtue?,6021,Charity,4,2,48.63201094391245,612
+1131,Which is not a virtue?,6031,Physical strength,4,2,58.98695802559564,9143
+1141,What is another name for self-giving love?,6041,Virtue,4,2,57.75217621246123,1627
+1141,What is another name for self-giving love?,6051,Faith,4,2,53.97059246270158,3236
+1141,What is another name for self-giving love?,6061,Hope,4,2,55.58802702125507,2068
+1141,What is another name for self-giving love?,6071,Charity,4,2,63.35368619897219,3127
+1161,"What are the virtues of prudence, justice, fortitude, and temperance called?",6121,Corporal Virtues,4,2,57.04028047828284,3038
+1161,"What are the virtues of prudence, justice, fortitude, and temperance called?",6131,Cardinal Virtues,4,2,61.06001341996301,2841
+1161,"What are the virtues of prudence, justice, fortitude, and temperance called?",6141,Compulsory Virtues,4,2,54.05987860601514,1705
+1161,"What are the virtues of prudence, justice, fortitude, and temperance called?",6151,Theological Virtues,4,2,57.70542635658915,2475
+6791,God loves me and all people.,28641,This is true,4,2,58.190858355014214,9676
+6791,God loves me and all people.,28651,This is not true,4,2,37.46770025839793,36
+6791,God loves me and all people.,28661,Not sure,4,2,50.551832873472605,118
+6801,Holy Communion looks like bread and wine but is really Jesus' body and blood.,28671,This is true,4,2,57.354273633343404,77
+6801,Holy Communion looks like bread and wine but is really Jesus' body and blood.,28681,This is not true,4,2,56.395348837209305,8
+6801,Holy Communion looks like bread and wine but is really Jesus' body and blood.,28691,Not sure,4,2,55.116279069767444,10
+6811,Sin hurts our friendship with God.,28701,This is true,4,2,58.93726183684631,8966
+6811,Sin hurts our friendship with God.,28711,This is not true,4,2,49.649815928885694,518
+6811,Sin hurts our friendship with God.,28721,Not sure,4,2,49.51052958311446,487
+6821,I need to pray often to be friends with God.,28731,This is true,4,2,57.49911157706769,4970
+6821,I need to pray often to be friends with God.,28741,This is not true,4,2,58.59255356756359,2843
+6821,I need to pray often to be friends with God.,28751,Not sure,4,2,58.294193414650174,2171
+6841,God wants me to love others.,28791,This is true,4,2,58.139663405449234,9781
+6841,God wants me to love others.,28801,This is not true,4,2,34.366925064599485,27
+6841,God wants me to love others.,28811,Not sure,4,2,47.74446623704119,83
+7111,I attend Mass.,29861,Weekly or more often,4,2,61.43400568618247,4431
+7111,I attend Mass.,29871,Sometimes,4,2,56.21800137641321,2528
+7111,I attend Mass.,29881,Only at school,4,2,54.51300822025856,2805
+7111,I attend Mass.,29891,No,4,2,49.70528118303251,127
+7121,I have been baptized.,29901,Yes,4,2,59.024324520537284,8649
+7121,I have been baptized.,29911,No,4,2,52.20064513833711,1060
+7121,I have been baptized.,29921,Not sure,4,2,47.43423635204342,277
+7141,I have received first communion.,29951,Yes,4,2,57.505285412262154,88
+7141,I have received first communion.,29961,No,4,2,51.16279069767442,7
+7151,I go to confession regularly.,29971,Yes,4,2,57.967876494096686,4507
+7151,I go to confession regularly.,29981,No,4,2,57.9923949611199,5481
+7171,I can find a Scripture verse in the Bible pretty easily.,30011,Yes,4,2,59.00944184946287,4913
+7171,I can find a Scripture verse in the Bible pretty easily.,30021,No,4,2,56.98511599691561,5079
+7211,"I learn about being Catholic all day, not just during religion lessons.",30091,Agree,4,2,58.26341712155762,7233
+7211,"I learn about being Catholic all day, not just during religion lessons.",30101,Disagree,4,2,57.23763992086052,2761
+7230,Who is our neighbor?,1770,Our friends,4,2,68.10810810810811,5
+7230,Who is our neighbor?,1772,Those who live near us,4,2,65.54054054054055,4
+7230,Who is our neighbor?,1773,Everyone we encounter,4,2,82.53638253638253,13
+7234,Which is NOT a result of original sin?,1788,Suffering,4,2,50.07132667617689,701
+7234,Which is NOT a result of original sin?,1789,Sickness,4,2,54.51379041406693,2624
+7234,Which is NOT a result of original sin?,1790,Virtue,4,2,62.079608455516315,4438
+7234,Which is NOT a result of original sin?,1792,Death,4,2,55.69176705813449,2303
+7265,"The theological virtues are faith, _______, and love.",1920,Hope,4,2,76.16707616707616,22
+7268,"God loves me and all people.	
+",1935,This is true,4,2,57.10044532409698,94
+7268,"God loves me and all people.	
+",1937,Not sure,4,2,51.16279069767442,1
+7269,God wants me to love others.,1938,This is true,4,2,57.03794369645043,95
+7270,I attend Mass.,1942,Weekly or more often,4,2,56.69153137340939,53
+7270,I attend Mass.,1943,Only at school,4,2,58.13953488372093,1
+7270,I attend Mass.,1944,No,4,2,53.48837209302326,2
+7270,I attend Mass.,1945,Sometimes,4,2,57.66249254621348,39
+12,What word best describes God's call for us to take care of creation? ,37,Tolerance ,4,3,57.07489349300097,2713
+12,What word best describes God's call for us to take care of creation? ,38,Importance,4,3,56.628744856350195,6245
+12,What word best describes God's call for us to take care of creation? ,39,Stewardship ,4,3,64.66333931008644,6952
+12,What word best describes God's call for us to take care of creation? ,40,Cleanliness,4,3,58.76190137702536,5889
+13,Which of the following best describes the Beatitudes? ,41,Rules to avoid sin,4,3,59.61935299108469,8689
+13,Which of the following best describes the Beatitudes? ,42,The 10 greatest saints who ever lived,4,3,50.37879657476067,2026
+13,Which of the following best describes the Beatitudes? ,43,Everything needed to celebrate Mass,4,3,53.885501537797445,2155
+13,Which of the following best describes the Beatitudes? ,44,Part of Jesus’ teaching on how to be perfectly happy,4,3,63.592891727243604,8929
+97,I am confirmed/I plan to be confirmed.,408,Yes,4,3,60.56248646690571,17077
+97,I am confirmed/I plan to be confirmed.,409,No,4,3,57.36937154470318,4623
+115,I should help everyone to show them God's love.,405,This is true,4,3,60.11202585771217,20477
+115,I should help everyone to show them God's love.,406,This is not true,4,3,51.866472153093625,271
+115,I should help everyone to show them God's love.,407,Not sure,4,3,57.25139894245085,906
+116,My parents bring me to Church often and we pray together.,410,Yes,4,3,61.01464933162424,12700
+116,My parents bring me to Church often and we pray together.,411,No,4,3,58.307796754569296,8735
+117,Holy Communion looks like bread and wine but is really Jesus' Body and Blood.,412,This is true,4,3,60.65848172863516,18798
+117,Holy Communion looks like bread and wine but is really Jesus' Body and Blood.,413,This is not true,4,3,54.40358936774932,1301
+117,Holy Communion looks like bread and wine but is really Jesus' Body and Blood.,414,Not sure,4,3,55.07569845481505,1490
+118,Whom did God promise he would have descendants as numerous as the stars?,415,Adam,4,3,55.29174437635596,3055
+118,Whom did God promise he would have descendants as numerous as the stars?,416,Noah,4,3,54.756648022765184,2844
+118,Whom did God promise he would have descendants as numerous as the stars?,417,Abraham,4,3,65.67115291540985,9514
+118,Whom did God promise he would have descendants as numerous as the stars?,418,Moses,4,3,55.27805864509606,6440
+119,The _______ is the leader of the earthly Church.,419,Oldest bishop,4,3,52.492528252545064,1992
+119,The _______ is the leader of the earthly Church.,420,Pope,4,3,62.768383022648614,15320
+119,The _______ is the leader of the earthly Church.,421,Parish priest,4,3,53.10594660005896,2998
+119,The _______ is the leader of the earthly Church.,422,Deacon,4,3,51.80853465793633,1545
+120,What is the difference between mortal and venial sin?,423,"Mortal sin breaks our relationship with God, while venial sin only damages it",4,3,62.24124191232742,14708
+120,What is the difference between mortal and venial sin?,424,"Mortal sin is absolute, but venial sin is relative",4,3,54.62168697890976,1933
+120,What is the difference between mortal and venial sin?,425,"Mortal sin is only done by mortals, but divine beings can commit venial sins",4,3,49.288587969777254,1659
+120,What is the difference between mortal and venial sin?,426,"Mortal sin is done with complete consent, but venial sin can be done unwillingly",4,3,57.056710626360086,3548
+122,What is an effect of building good habits?,427,Having less control over our emotions,4,3,49.95553381653253,2092
+122,What is an effect of building good habits?,428,It gets easier to do good,4,3,61.90194534595664,18165
+122,What is an effect of building good habits?,429,We are more likely to sin,4,3,48.49253199160097,1174
+122,What is an effect of building good habits?,430,We no longer need God's grace,4,3,46.47240123283833,415
+123,In which prayer do we think about the Sorrowful Mysteries?,431,The Our Father,4,3,53.537748788442194,3815
+123,In which prayer do we think about the Sorrowful Mysteries?,432,The Rosary,4,3,63.965941567076285,11018
+123,In which prayer do we think about the Sorrowful Mysteries?,433,The Angelus,4,3,58.217989611906795,4061
+123,In which prayer do we think about the Sorrowful Mysteries?,434,The Glory Be,4,3,54.12040065251826,2951
+127,Which is NOT a Corporal Work of Mercy?,447,Feeding the hungry,4,3,48.16959341876285,735
+127,Which is NOT a Corporal Work of Mercy?,448,Sheltering the homeless,4,3,50.28031561461794,672
+127,Which is NOT a Corporal Work of Mercy?,449,Bearing wrongs patiently,4,3,60.72217926604413,19550
+127,Which is NOT a Corporal Work of Mercy?,450,Visiting the sick,4,3,54.11429443794209,914
+128,Someone who prays for others is a/an ___________.,451,Wanderer,4,3,50.30805640855125,1189
+128,Someone who prays for others is a/an ___________.,452,Intercessor,4,3,62.551022158194414,10848
+128,Someone who prays for others is a/an ___________.,453,Favor seeker,4,3,54.38768104509167,2948
+128,Someone who prays for others is a/an ___________.,454,Neighbor,4,3,59.12810131031522,6881
+129,What is virtue?,455,A habit of doing the right things,4,3,63.70591925438007,12456
+129,What is virtue?,456,Memorizing the rules of Christianity,4,3,55.04730129013027,4447
+129,What is virtue?,457,Another word for an angel,4,3,51.24227432815776,1697
+129,What is virtue?,458,One of the sacraments,4,3,55.21993070919917,3269
+130,I have received First Communion.,459,Yes,4,3,60.941052284347684,17625
+130,I have received First Communion.,460,No,4,3,55.30557324749396,4053
+379,Why are some souls sent to purgatory?,1340,They rejected God’s love,4,3,55.0191493257801,5969
+379,Why are some souls sent to purgatory?,1341,They need to be purified of sin,4,3,64.37902455213458,10441
+379,Why are some souls sent to purgatory?,1342,They did not sin or do good,4,3,55.37883463139887,2977
+379,Why are some souls sent to purgatory?,1343,They need to wait for Jesus to save them later,4,3,56.570072328489545,2479
+380,What are feast days?,1344,Days where we eat as much as we want,4,3,49.47193963009327,1319
+380,What are feast days?,1345,Days when we go grocery shopping,4,3,41.18393234672305,110
+380,What are feast days?,1346,Days we celebrate a saint or holy event,4,3,60.73169226254182,19969
+380,What are feast days?,1347,Days when gluttony is not a sin,4,3,49.35733933483371,465
+761,Who is NOT someone with whom God made a covenant?,4521,Noah,4,3,51.74504993261689,1346
+761,Who is NOT someone with whom God made a covenant?,4531,Moses,4,3,49.715077776066536,1359
+761,Who is NOT someone with whom God made a covenant?,4541,Abraham,4,3,50.07474207856495,1898
+761,Who is NOT someone with whom God made a covenant?,4551,Job,4,3,62.31517641176709,17210
+771,How did God test Abraham's faith?,4561,He told him he could eat from any tree except one,4,3,51.481157598447794,3404
+771,How did God test Abraham's faith?,4571,He told him to sacrifice his son,4,3,64.32845695530685,12584
+771,How did God test Abraham's faith?,4581,He told him to build an ark,4,3,51.852159468438536,2520
+771,How did God test Abraham's faith?,4591,He took away his family and his home,4,3,57.31002814397867,3297
+791,With whom did God make a covenant through Moses?,4641,The People of Israel,4,3,63.381528090472536,12509
+791,With whom did God make a covenant through Moses?,4651,The Holy Family,4,3,51.13971354554388,3124
+791,With whom did God make a covenant through Moses?,4661,Cain and Abel,4,3,52.66995604802721,1381
+791,With whom did God make a covenant through Moses?,4671,The Egyptians,4,3,58.24166204662834,4782
+821,Which is not made in the image and likeness of God?,4761,A baby growing in her mother's womb,4,3,53.01491357735595,3178
+821,Which is not made in the image and likeness of God?,4771,A very sick and elderly person,4,3,55.729329193794925,4397
+821,Which is not made in the image and likeness of God?,4781,A beloved family dog,4,3,64.53090836811766,11700
+821,Which is not made in the image and likeness of God?,4791,A child with a disability,4,3,53.701889303804485,2516
+851,Who is called to be holy?,4881,"Priests, bishops, and deacons",4,3,51.098511013892086,2424
+851,Who is called to be holy?,4891,Saints,4,3,53.492159684872355,2456
+851,Who is called to be holy?,4901,Everyone,4,3,62.69820873461482,16017
+851,Who is called to be holy?,4911,People who have never sinned,4,3,49.38684503901895,897
+861,To covet means to__________.,4921,Envy or Desire,4,3,63.838814157742696,7970
+861,To covet means to__________.,4931,Steal,4,3,57.97751136454719,4062
+861,To covet means to__________.,4941,Destroy,4,3,50.606558245483924,878
+861,To covet means to__________.,4951,Praise,4,3,57.97957425864403,8883
+871,What does the Fourth Commandment tell us to do?,4961,Raise children of our own,4,3,42.12811514899185,391
+871,What does the Fourth Commandment tell us to do?,4971,Obey our parents when they ask us to sin,4,3,52.08196551366668,2019
+871,What does the Fourth Commandment tell us to do?,4981,Treat our parents as equals,4,3,48.82398324699658,1055
+871,What does the Fourth Commandment tell us to do?,4991,Respect and love our parents,4,3,61.68980072243192,18336
+881,Jesus gave us the Beatitudes in the Sermon on the ____________.,5001,Hill,4,3,58.831618235943004,7695
+881,Jesus gave us the Beatitudes in the Sermon on the ____________.,5011,Quarry,4,3,54.51170565311616,2393
+881,Jesus gave us the Beatitudes in the Sermon on the ____________.,5021,River,4,3,52.84765912416604,2813
+881,Jesus gave us the Beatitudes in the Sermon on the ____________.,5031,Mount,4,3,64.34858855400401,8885
+901,What is sin?,5081,A failure to love God and neighbor,4,3,61.99737501491469,16762
+901,What is sin?,5091,A choice to do what makes us happy,4,3,51.8570507227133,1226
+901,What is sin?,5101,Any use of free will,4,3,53.46984156397665,2008
+901,What is sin?,5111,Taking care of the body instead of the soul,4,3,52.21679369422188,1785
+911,What is temptation?,5121,A not very serious sin,4,3,48.073030691065306,1689
+911,What is temptation?,5131,An urge to sin,4,3,62.860657540271596,16920
+911,What is temptation?,5141,A demon,4,3,50.50047709031039,1243
+911,What is temptation?,5151,One of the seven deadly sins,4,3,49.6665703693004,1932
+931,What are the two Great Commandments?,5201,Worship God alone and do not take His name in vain,4,3,57.70954051941825,7469
+931,What are the two Great Commandments?,5211,Love God with your whole heart and know Him with your whole mind,4,3,56.62352708468733,4938
+931,What are the two Great Commandments?,5221,"Love God, and love your neighbor as yourself",4,3,63.974398603560196,8953
+931,What are the two Great Commandments?,5231,Go forth to all the nations and baptize all peoples,4,3,46.88019102990033,448
+941,What is the New Commandment?,5241,Give everyone what they ask for,4,3,44.52959830866808,440
+941,What is the New Commandment?,5251,Try to become God,4,3,44.775125499436534,454
+941,What is the New Commandment?,5261,Spread Jesus’ teachings throughout the world,4,3,57.04775857344956,8318
+941,What is the New Commandment?,5271,Love one another as Jesus loved us,4,3,62.75869850306766,12573
+991,How should we form our consciences?,5441,Studying the universe,4,3,45.200497655278014,486
+991,How should we form our consciences?,5451,Doing good things and forming good habits,4,3,61.68653073873688,18010
+991,How should we form our consciences?,5461,Doing what makes us feel good,4,3,52.038812067881835,2960
+991,How should we form our consciences?,5471,Ignoring our feelings,4,3,47.34738372093023,384
+1001,How was Adam different from everything else God created on earth?,5481,He could know and love God,4,3,60.98743471019611,18669
+1001,How was Adam different from everything else God created on earth?,5491,He walked on two legs,4,3,53.93244739756368,2100
+1001,How was Adam different from everything else God created on earth?,5501,He was hairless,4,3,49.674066243833686,528
+1001,How was Adam different from everything else God created on earth?,5511,He had lungs,4,3,50.17855587492379,534
+1011,When do we say the Act of Contrition?,5521,During confession,4,3,61.93045783410259,17756
+1011,When do we say the Act of Contrition?,5531,After we are confirmed,4,3,52.877710865183865,1927
+1011,When do we say the Act of Contrition?,5541,At the end of each Mass,4,3,49.06446038074762,1709
+1011,When do we say the Act of Contrition?,5551,At the start of each school year,4,3,45.03171247357294,440
+1021,What is the short blessing we say when we begin to pray?,5561,Sign of the Cross,4,3,61.03706494056484,19879
+1021,What is the short blessing we say when we begin to pray?,5571,Act of Contrition,4,3,45.05061559507524,425
+1021,What is the short blessing we say when we begin to pray?,5581,Ave Maria,4,3,43.15702819510187,226
+1021,What is the short blessing we say when we begin to pray?,5591,The Lord's Prayer,4,3,48.37712519319938,1294
+1031,In what kind of prayer do we ask God for good things?,5601,Prayer of Praise,4,3,55.1148428924611,4534
+1031,In what kind of prayer do we ask God for good things?,5611,Blessing and Adoration,4,3,57.71614809399796,4581
+1031,In what kind of prayer do we ask God for good things?,5621,Prayer of Thanksgiving,4,3,57.86525748272395,5435
+1031,In what kind of prayer do we ask God for good things?,5631,Prayer of Petition,4,3,65.45764588072318,7269
+1061,"If we feel distracted while praying, what should we do?",5721,Do something else for a while,4,3,44.446929039952295,312
+1061,"If we feel distracted while praying, what should we do?",5731,Take a nap,4,3,39.75993998499625,124
+1061,"If we feel distracted while praying, what should we do?",5741,Ask God to help us focus,4,3,60.38211091234347,21125
+1061,"If we feel distracted while praying, what should we do?",5751,Wait at least 3 days before praying again,4,3,39.76023075536326,258
+1071,What is Transubstantiation?,5761,The conversion of bread and wine into the real Body and Blood of Jesus,4,3,62.67453148698877,11331
+1071,What is Transubstantiation?,5771,The process of becoming a priest,4,3,57.70665438636887,4040
+1071,What is Transubstantiation?,5781,The sharing of the Good News of salvation,4,3,53.64610898373857,2241
+1071,What is Transubstantiation?,5791,"Jesus’ Passion, Death, Resurrection, and Ascension",4,3,57.345932303546086,4211
+1091,What does the Church teach us about Holy Communion?,5841,Receive the Eucharist at least once a year,4,3,53.18565042720534,1644
+1091,What does the Church teach us about Holy Communion?,5851,Receive the Eucharist only in a state of grace,4,3,57.821885609819795,3829
+1091,What does the Church teach us about Holy Communion?,5861,Receive the Eucharist daily if possible,4,3,59.20479766042726,8477
+1091,What does the Church teach us about Holy Communion?,5871,All of these,4,3,62.78833157354581,7863
+1111,What is a result of Baptism?,5921,We are cleansed from sin,4,3,53.62863475470574,3515
+1111,What is a result of Baptism?,5931,We become a member of the Church,4,3,55.449249277696204,2946
+1111,What is a result of Baptism?,5941,We become a child of God,4,3,51.037018224915045,1923
+1111,What is a result of Baptism?,5951,All of these,4,3,63.59537440443902,13462
+1131,Which is not a virtue?,6001,Faith,4,3,44.78322085740642,479
+1131,Which is not a virtue?,6011,Hope,4,3,42.713178294573645,360
+1131,Which is not a virtue?,6021,Charity,4,3,49.92271481767723,1324
+1131,Which is not a virtue?,6031,Physical strength,4,3,61.1439531807242,19654
+1141,What is another name for self-giving love?,6041,Virtue,4,3,58.96281110564837,5014
+1141,What is another name for self-giving love?,6051,Faith,4,3,56.15895513786155,5851
+1141,What is another name for self-giving love?,6061,Hope,4,3,57.039605355884426,4125
+1141,What is another name for self-giving love?,6071,Charity,4,3,65.22739434675465,6823
+6791,God loves me and all people.,28641,This is true,4,3,60.05073363970428,21416
+6791,God loves me and all people.,28651,This is not true,4,3,43.90243902439025,123
+6791,God loves me and all people.,28661,Not sure,4,3,50.61969085085643,167
+6811,Sin hurts our friendship with God.,28701,This is true,4,3,61.140002492267186,18849
+6811,Sin hurts our friendship with God.,28711,This is not true,4,3,51.63417468628808,1781
+6811,Sin hurts our friendship with God.,28721,Not sure,4,3,51.54824617756649,1086
+6821,I need to pray often to be friends with God.,28731,This is true,4,3,59.34301452716222,8659
+6821,I need to pray often to be friends with God.,28741,This is not true,4,3,60.10986641243034,8196
+6821,I need to pray often to be friends with God.,28751,Not sure,4,3,60.467510330331194,4857
+6841,God wants me to love others.,28791,This is true,4,3,60.08461994926716,21398
+6841,God wants me to love others.,28801,This is not true,4,3,46.43940488227647,161
+6841,God wants me to love others.,28811,Not sure,4,3,45.60723514211886,144
+7111,I attend Mass.,29861,Weekly or more often,4,3,62.26251554638635,10303
+7111,I attend Mass.,29871,Sometimes,4,3,58.7594325967384,6025
+7111,I attend Mass.,29881,Only at school,4,3,56.776556776556774,5187
+7111,I attend Mass.,29891,No,4,3,51.642292016303045,194
+7121,I have been baptized.,29901,Yes,4,3,60.94572810317034,18610
+7121,I have been baptized.,29911,No,4,3,54.505929585021555,2514
+7121,I have been baptized.,29921,Not sure,4,3,49.10230148210628,579
+7151,I go to confession regularly.,29971,Yes,4,3,59.67783809575043,9943
+7151,I go to confession regularly.,29981,No,4,3,60.06512260933556,11756
+7171,I can find a Scripture verse in the Bible pretty easily.,30011,Yes,4,3,61.18442503767283,10556
+7171,I can find a Scripture verse in the Bible pretty easily.,30021,No,4,3,58.6584421089559,11137
+7211,"I learn about being Catholic all day, not just during religion lessons.",30091,Agree,4,3,60.00276479276826,15477
+7211,"I learn about being Catholic all day, not just during religion lessons.",30101,Disagree,4,3,59.59036315508481,6229
+7234,Which is NOT a result of original sin?,1788,Suffering,4,3,51.31110583768391,1568
+7234,Which is NOT a result of original sin?,1789,Sickness,4,3,55.216640739355036,3543
+7234,Which is NOT a result of original sin?,1790,Virtue,4,3,63.58308849160898,11675
+7234,Which is NOT a result of original sin?,1792,Death,4,3,56.570661191115676,5074
+7277,Which is NOT a Spiritual Work of Mercy?,30146,Praying for the dead,4,3,54.20295983086681,1650
+7277,Which is NOT a Spiritual Work of Mercy?,30147,Feeding the hungry ,4,3,67.33682623631466,3764
+7277,Which is NOT a Spiritual Work of Mercy?,30148,Forgiving a friend,4,3,60.672257903226765,3907
+7277,Which is NOT a Spiritual Work of Mercy?,30149,Counseling the doubtful,4,3,58.063714916924845,12453
+7278,"What are the virtues of faith, hope, and charity (love) called?",30150,Cardinal virtues   ,4,3,61.11684712727943,6059
+7278,"What are the virtues of faith, hope, and charity (love) called?",30151,Theological virtues    ,4,3,64.68450752393981,4896
+7278,"What are the virtues of faith, hope, and charity (love) called?",30152,Common virtues,4,3,58.54753161974704,6441
+7278,"What are the virtues of faith, hope, and charity (love) called?",30153,Natural virtues   ,4,3,54.5942466860997,4372
+7279,How does receiving Holy Communion affect our lives?,30154,It forgives mortal sin   ,4,3,55.193630112196885,5526
+7279,How does receiving Holy Communion affect our lives?,30155,"It makes it impossible for us to sin
+",4,3,45.818780702501634,819
+7279,How does receiving Holy Communion affect our lives?,30156,It helps us love God and our neighbor,4,3,63.82053964571873,13093
+7279,How does receiving Holy Communion affect our lives?,30157,It takes the place of confession,4,3,53.55653568564555,2320
+7280,Jesus' suffering and death is also called __________.,30158,Original Sin,4,3,51.47315559195638,3237
+7280,Jesus' suffering and death is also called __________.,30159,The Coronation ,4,3,57.70958854464811,5647
+7280,Jesus' suffering and death is also called __________.,30160,The Passion ,4,3,65.01740704637237,8350
+7280,Jesus' suffering and death is also called __________.,30161,The Exodus ,4,3,59.0328420229781,4522
+7281,"What are the virtues of prudence, justice, fortitude, and temperance called?",30162,Conditional Virtues,4,3,57.64778033207541,6181
+7281,"What are the virtues of prudence, justice, fortitude, and temperance called?",30163,Cardinal Virtues,4,3,63.03304503407895,6343
+7281,"What are the virtues of prudence, justice, fortitude, and temperance called?",30164,Compulsory Virtues ,4,3,57.43343016543792,4331
+7281,"What are the virtues of prudence, justice, fortitude, and temperance called?",30165,Theological Virtues,4,3,60.65101103987253,4904
+7330,What is the role of the priest in confession?,30359,Confession of sins to a priest is not necessary,4,3,44.78036175710594,720
+7330,What is the role of the priest in confession?,30360,The priest forgives our sins under his own power,4,3,50.06083210339463,2332
+7330,What is the role of the priest in confession?,30361,The priest forgives our sins in Jesus' name,4,3,61.887750590553665,18410
+7330,What is the role of the priest in confession?,30362,The priest has no role in confession,4,3,45.81395348837209,350
+7331,What should we do before going to confession?,30363,Go to Mass,4,3,52.05686228975218,5608
+7331,What should we do before going to confession?,30364,Examine our conscience,4,3,64.00968095277291,14692
+7331,What should we do before going to confession?,30365,Anoint ourselves with oil,4,3,48.87424927904331,879
+7331,What should we do before going to confession?,30366,Point out the sins of others,4,3,46.410024836306164,618
+5,What is another phrase we use to describe the Church? ,13,The Head of God,4,4,48.717948717948715,1
+8,What did Jesus explain as the second Great Commandment? ,25,Love our neighbors as ourselves,4,4,48.717948717948715,1
+9,What is the word we use for a holy item that is a sign of God? ,32,Candle ,4,4,48.717948717948715,1
+12,What word best describes God's call for us to take care of creation? ,37,Tolerance ,4,4,55.751571967866546,3449
+12,What word best describes God's call for us to take care of creation? ,38,Importance,4,4,54.91499886004302,7136
+12,What word best describes God's call for us to take care of creation? ,39,Stewardship ,4,4,62.910696412137334,9026
+12,What word best describes God's call for us to take care of creation? ,40,Cleanliness,4,4,56.487648163583835,6655
+13,Which of the following best describes the Beatitudes? ,41,Rules to avoid sin,4,4,58.33436708966858,10847
+13,Which of the following best describes the Beatitudes? ,42,The 10 greatest saints who ever lived,4,4,48.24123355361076,2546
+13,Which of the following best describes the Beatitudes? ,43,Everything needed to celebrate Mass,4,4,52.180894232810175,2428
+13,Which of the following best describes the Beatitudes? ,44,Part of Jesus’ teaching on how to be perfectly happy,4,4,61.82244303049672,10435
+15,How can we know that God exists? ,52,All of these,4,4,75.0,2
+18,Jesus said the second Greatest Commandment was to love your neighbor as yourself. What did Jesus say was the Greatest Commandment?,63,"You shall love the Lord your God with all your heart, soul, and mind",4,4,75.0,2
+20,Which of the following statements is FALSE? ,70,Prayer is an optional part of the Christian life,4,4,75.0,2
+23,What did Jesus say about His Body and Blood?,78,All of the above,4,4,72.91666666666667,1
+23,What did Jesus say about His Body and Blood?,80,I am the Bread of Life,4,4,77.08333333333333,1
+25,Which best describes the Mass?,86,It is the Church’s most important act of worship,4,4,75.0,2
+37,Truly loving our neighbor will be impossible unless we also love___________ first.,131,God,4,4,48.717948717948715,1
+97,I am confirmed/I plan to be confirmed.,408,Yes,4,4,58.91186837475343,21042
+97,I am confirmed/I plan to be confirmed.,409,No,4,4,55.3217658304292,5051
+98,Why did Jesus come to be with us?,348,To tell us it is okay if we sin,4,4,48.717948717948715,1
+99,What Old Testament event is a sign of the Eucharist?,349,Passover,4,4,48.717948717948715,1
+102,The friendship we have with those in heaven and in purgatory is called the _____________ of saints.,358,Companionship,4,4,48.717948717948715,1
+107,To whom did the apostles pass on their teaching authority?,380,Israelites,4,4,48.717948717948715,1
+108,What command did Jesus give His apostles?,381,To conquer every nation for Him,4,4,48.717948717948715,1
+109,In which prayer do we ask the Mother of God to pray for us?,386,The Hail Mary,4,4,48.717948717948715,1
+110,In which sacrament do we say the Act of Contrition?,389,Baptism,4,4,48.717948717948715,1
+112,What does the sacrament of Confirmation prepare us to do?,395,To spread the Faith,4,4,48.717948717948715,1
+114,What is a gift of the Holy Spirit?,403,Fortitude,4,4,48.717948717948715,1
+115,I should help everyone to show them God's love.,405,This is true,4,4,58.39340896882415,24876
+115,I should help everyone to show them God's love.,406,This is not true,4,4,47.59045481267704,189
+115,I should help everyone to show them God's love.,407,Not sure,4,4,55.93589796736172,731
+116,My parents bring me to Church often and we pray together.,410,Yes,4,4,59.111200659073,14808
+116,My parents bring me to Church often and we pray together.,411,No,4,4,57.03912964296457,11309
+117,Holy Communion looks like bread and wine but is really Jesus' Body and Blood.,412,This is true,4,4,59.039588978412816,22810
+117,Holy Communion looks like bread and wine but is really Jesus' Body and Blood.,413,This is not true,4,4,51.86953595733172,1606
+117,Holy Communion looks like bread and wine but is really Jesus' Body and Blood.,414,Not sure,4,4,53.22093020652098,1736
+118,Whom did God promise he would have descendants as numerous as the stars?,415,Adam,4,4,54.25736768433398,4539
+118,Whom did God promise he would have descendants as numerous as the stars?,416,Noah,4,4,52.93315219858868,4230
+118,Whom did God promise he would have descendants as numerous as the stars?,417,Abraham,4,4,63.91417571298726,11782
+118,Whom did God promise he would have descendants as numerous as the stars?,418,Moses,4,4,53.32029233135855,5696
+119,The _______ is the leader of the earthly Church.,419,Oldest bishop,4,4,50.13264555582512,2624
+119,The _______ is the leader of the earthly Church.,420,Pope,4,4,61.662003048736736,18310
+119,The _______ is the leader of the earthly Church.,421,Parish priest,4,4,49.949596744874604,3473
+119,The _______ is the leader of the earthly Church.,422,Deacon,4,4,50.5247764754807,1846
+120,What is the difference between mortal and venial sin?,423,"Mortal sin breaks our relationship with God, while venial sin only damages it",4,4,61.32914394964892,16993
+120,What is the difference between mortal and venial sin?,424,"Mortal sin is absolute, but venial sin is relative",4,4,51.603695179644546,2688
+120,What is the difference between mortal and venial sin?,425,"Mortal sin is only done by mortals, but divine beings can commit venial sins",4,4,46.825148830190074,2184
+120,What is the difference between mortal and venial sin?,426,"Mortal sin is done with complete consent, but venial sin can be done unwillingly",4,4,55.65618496523019,4381
+122,What is an effect of building good habits?,427,Having less control over our emotions,4,4,48.25589558297068,3038
+122,What is an effect of building good habits?,428,It gets easier to do good,4,4,60.84985078380498,21050
+122,What is an effect of building good habits?,429,We are more likely to sin,4,4,47.07966817555859,1536
+122,What is an effect of building good habits?,430,We no longer need God's grace,4,4,43.53625104028981,619
+123,In which prayer do we think about the Sorrowful Mysteries?,431,The Our Father,4,4,51.545215529783434,4861
+123,In which prayer do we think about the Sorrowful Mysteries?,432,The Rosary,4,4,62.918090322949574,12720
+123,In which prayer do we think about the Sorrowful Mysteries?,433,The Angelus,4,4,56.459167474466504,5036
+123,In which prayer do we think about the Sorrowful Mysteries?,434,The Glory Be,4,4,52.862881434310005,3629
+127,Which is NOT a Corporal Work of Mercy?,447,Feeding the hungry,4,4,48.727450304492706,969
+127,Which is NOT a Corporal Work of Mercy?,448,Sheltering the homeless,4,4,44.87506320839654,819
+127,Which is NOT a Corporal Work of Mercy?,449,Bearing wrongs patiently,4,4,59.30320220733836,23216
+127,Which is NOT a Corporal Work of Mercy?,450,Visiting the sick,4,4,52.93214564097619,1257
+128,Someone who prays for others is a/an ___________.,451,Wanderer,4,4,48.15636162746169,1611
+128,Someone who prays for others is a/an ___________.,452,Intercessor,4,4,62.22495078368374,11369
+128,Someone who prays for others is a/an ___________.,453,Favor seeker,4,4,51.57096913865104,3548
+128,Someone who prays for others is a/an ___________.,454,Neighbor,4,4,57.47045578942131,9745
+129,What is virtue?,455,A habit of doing the right things,4,4,62.07204470212778,16009
+129,What is virtue?,456,Memorizing the rules of Christianity,4,4,53.03232205045778,5132
+129,What is virtue?,457,Another word for an angel,4,4,45.01029497336735,1356
+129,What is virtue?,458,One of the sacraments,4,4,53.221777927660284,3776
+130,I have received First Communion.,459,Yes,4,4,59.33419140432527,20999
+130,I have received First Communion.,460,No,4,4,53.53446674098848,4991
+132,What are the four marks of the Church?,462,"One, Roman, catholic, and eternal",4,4,72.91666666666667,1
+132,What are the four marks of the Church?,463,"One, holy, catholic, and apostolic",4,4,77.08333333333333,1
+133,What flowed from Jesus’ side at the crucifixion? ,466,Blood and water,4,4,75.0,2
+135,____ are stories Jesus told to teach about the Kingdom of God.,473,Parables,4,4,75.0,2
+138,Which best describes praying before the Lord in the Blessed Sacrament?,486,Adoration,4,4,77.08333333333333,1
+138,Which best describes praying before the Lord in the Blessed Sacrament?,487,Intercession,4,4,72.91666666666667,1
+139,When can Anointing of the Sick be received?,490,Any time the recipient becomes sick at all,4,4,77.08333333333333,1
+139,When can Anointing of the Sick be received?,491,When a person becomes seriously ill or is in danger of dying,4,4,72.91666666666667,1
+140,When does a person receive Baptism? ,494,Only once when they enter the Church,4,4,75.0,2
+142,What is Christian love? ,497,Wanting and doing what is good for someone else,4,4,75.0,2
+143,The souls in purgatory will:,501,Go to heaven,4,4,75.0,2
+144,To whom did the apostles pass on their authority? Who are their successors?,507,Bishops,4,4,75.0,2
+145,Confession and Anointing of the Sick are ____.,511,Sacraments of healing,4,4,75.0,2
+146,When do we first receive the gifts of the Holy Spirit?,513,Baptism,4,4,72.91666666666667,1
+146,When do we first receive the gifts of the Holy Spirit?,516,Confirmation,4,4,77.08333333333333,1
+373,"At every Mass, we participate in a re-presentation of _____________.",1318,Judas' betrayal of Jesus,4,4,48.717948717948715,1
+374,What is changed at Mass to show the different Church seasons?,1321,The colors of the priest's vestments,4,4,48.717948717948715,1
+375,"Complete this prayer: Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, ____________ world without end. Amen.",1325,"... is now, and ever shall be",4,4,48.717948717948715,1
+376,"The Church is one, holy, catholic, and apostolic. These are called the four ____ of the Church.",1328,Rules,4,4,48.717948717948715,1
+378,In the Act of Contrition we tell God _______.,1339,We are grateful for His generosity,4,4,48.717948717948715,1
+379,Why are some souls sent to purgatory?,1340,They rejected God’s love,4,4,53.80577059162677,7553
+379,Why are some souls sent to purgatory?,1341,They need to be purified of sin,4,4,63.40910179098579,11608
+379,Why are some souls sent to purgatory?,1342,They did not sin or do good,4,4,53.92005624572674,3915
+379,Why are some souls sent to purgatory?,1343,They need to wait for Jesus to save them later,4,4,54.600401511199635,3196
+381,What did John the Baptist call Jesus?,3021,“The Alpha and the Omega”,4,4,48.717948717948715,1
+383,Which are the theological virtues?,1352,"Faith, Hope, Love",4,4,77.08333333333333,1
+383,Which are the theological virtues?,1354,"Chastity, Temperance, Fortitude",4,4,72.91666666666667,1
+384,"The Fifth Commandment states:
+",1356,Thou shalt not steal,4,4,75.0,2
+385,"In confession, what is penance?	
+",1362,A task assigned by the priest to make up for your sins,4,4,75.0,2
+401,The first sin of Adam and Eve is called ________.,3101,Concupiscence,4,4,48.717948717948715,1
+461,Mary was crowned by Jesus as the Queen of ____________.,3321,Nazareth,4,4,48.717948717948715,1
+471,The saints are our friends in ___________.,3381,Heaven,4,4,48.717948717948715,1
+511,Who is a disciple?,3531,A follower of Jesus,4,4,48.717948717948715,1
+541,What is the first Great Commandment?,3661,Love God,4,4,48.717948717948715,1
+551,What is the Fourth Commandment?,3691,You shall not kill,4,4,48.717948717948715,1
+571,The first three commandments are about loving __________.,3791,God,4,4,48.717948717948715,1
+601,What prayer does Jesus use to teach us to pray?,3891,The Hail Mary,4,4,48.717948717948715,1
+631,"At Baptism, we become ____________ of the Holy Spirit.",4001,Temples,4,4,48.717948717948715,1
+661,What is a rosary?,4121,A special chain of beads which we use for praying,4,4,48.717948717948715,1
+711,Why is hope an important virtue?,4341,We should hope that the poor are cared for,4,4,48.717948717948715,1
+731,A virtue is a habit of doing _________.,4431,What we are told,4,4,48.717948717948715,1
+761,Who is NOT someone with whom God made a covenant?,4521,Noah,4,4,50.81522189104156,1464
+761,Who is NOT someone with whom God made a covenant?,4531,Moses,4,4,46.439534665540855,1616
+761,Who is NOT someone with whom God made a covenant?,4541,Abraham,4,4,48.84916790859414,2442
+761,Who is NOT someone with whom God made a covenant?,4551,Job,4,4,60.62369277686154,20787
+771,How did God test Abraham's faith?,4561,He told him he could eat from any tree except one,4,4,48.84927859072346,3947
+771,How did God test Abraham's faith?,4571,He told him to sacrifice his son,4,4,62.96751746001351,15197
+771,How did God test Abraham's faith?,4581,He told him to build an ark,4,4,49.35851122058018,3046
+771,How did God test Abraham's faith?,4591,He took away his family and his home,4,4,55.60779537149817,4106
+791,With whom did God make a covenant through Moses?,4641,The People of Israel,4,4,61.1391989743473,15979
+791,With whom did God make a covenant through Moses?,4651,The Holy Family,4,4,48.29272782849124,2910
+791,With whom did God make a covenant through Moses?,4661,Cain and Abel,4,4,51.896505158537245,1309
+791,With whom did God make a covenant through Moses?,4671,The Egyptians,4,4,56.21958256232715,6094
+821,Which is not made in the image and likeness of God?,4761,A baby growing in her mother's womb,4,4,50.74823252693648,3720
+821,Which is not made in the image and likeness of God?,4771,A very sick and elderly person,4,4,54.44958055127547,5015
+821,Which is not made in the image and likeness of God?,4781,A beloved family dog,4,4,62.721190876390544,14552
+821,Which is not made in the image and likeness of God?,4791,A child with a disability,4,4,51.07646993442258,3001
+851,Who is called to be holy?,4881,"Priests, bishops, and deacons",4,4,50.36208020308051,3238
+851,Who is called to be holy?,4891,Saints,4,4,51.889612025666445,3087
+851,Who is called to be holy?,4901,Everyone,4,4,61.039825028977425,18814
+851,Who is called to be holy?,4911,People who have never sinned,4,4,49.064868791905184,1154
+861,To covet means to__________.,4921,Envy or Desire,4,4,63.05265327249722,9486
+861,To covet means to__________.,4931,Steal,4,4,56.40578397714883,4485
+861,To covet means to__________.,4941,Destroy,4,4,48.96671258034895,880
+861,To covet means to__________.,4951,Praise,4,4,55.42195713583072,11443
+871,What does the Fourth Commandment tell us to do?,4961,Raise children of our own,4,4,38.68621489980713,309
+871,What does the Fourth Commandment tell us to do?,4971,Obey our parents when they ask us to sin,4,4,50.264939171795575,1547
+871,What does the Fourth Commandment tell us to do?,4981,Treat our parents as equals,4,4,47.38335026796565,1014
+871,What does the Fourth Commandment tell us to do?,4991,Respect and love our parents,4,4,59.37748540622521,23422
+881,Jesus gave us the Beatitudes in the Sermon on the ____________.,5001,Hill,4,4,56.205290632695636,9556
+881,Jesus gave us the Beatitudes in the Sermon on the ____________.,5011,Quarry,4,4,53.67003367003367,2478
+881,Jesus gave us the Beatitudes in the Sermon on the ____________.,5021,River,4,4,50.50390057220658,3297
+881,Jesus gave us the Beatitudes in the Sermon on the ____________.,5031,Mount,4,4,63.137916183657076,10954
+901,What is sin?,5081,A failure to love God and neighbor,4,4,60.181468983517256,20804
+901,What is sin?,5091,A choice to do what makes us happy,4,4,49.87345987345987,1183
+901,What is sin?,5101,Any use of free will,4,4,51.05745763742324,2327
+901,What is sin?,5111,Taking care of the body instead of the soul,4,4,49.890760970190705,1965
+911,What is temptation?,5121,A not very serious sin,4,4,45.57572904183073,1772
+911,What is temptation?,5131,An urge to sin,4,4,60.99906071541301,21156
+911,What is temptation?,5141,A demon,4,4,47.14187893727746,1218
+911,What is temptation?,5151,One of the seven deadly sins,4,4,46.559032952475576,2136
+931,What are the two Great Commandments?,5201,Worship God alone and do not take His name in vain,4,4,55.43759376470753,9382
+931,What are the two Great Commandments?,5211,Love God with your whole heart and know Him with your whole mind,4,4,54.5218401095087,4669
+931,What are the two Great Commandments?,5221,"Love God, and love your neighbor as yourself",4,4,62.08143987289229,11868
+931,What are the two Great Commandments?,5231,Go forth to all the nations and baptize all peoples,4,4,44.70856320460542,379
+941,What is the New Commandment?,5241,Give everyone what they ask for,4,4,41.432603985474074,331
+941,What is the New Commandment?,5251,Try to become God,4,4,42.754324245089414,379
+941,What is the New Commandment?,5261,Spread Jesus’ teachings throughout the world,4,4,55.28638142274506,9770
+941,What is the New Commandment?,5271,Love one another as Jesus loved us,4,4,60.63765584918213,15795
+991,How should we form our consciences?,5441,Studying the universe,4,4,44.050114403705564,906
+991,How should we form our consciences?,5451,Doing good things and forming good habits,4,4,60.40373863309643,21263
+991,How should we form our consciences?,5461,Doing what makes us feel good,4,4,50.51136886679554,3621
+991,How should we form our consciences?,5471,Ignoring our feelings,4,4,43.60924683072334,447
+1001,How was Adam different from everything else God created on earth?,5481,He could know and love God,4,4,59.90187333581971,21373
+1001,How was Adam different from everything else God created on earth?,5491,He walked on two legs,4,4,51.71096818165275,3056
+1001,How was Adam different from everything else God created on earth?,5501,He was hairless,4,4,48.45600242502469,1034
+1001,How was Adam different from everything else God created on earth?,5511,He had lungs,4,4,49.40498124844826,774
+1011,When do we say the Act of Contrition?,5521,During confession,4,4,61.24324381913392,19439
+1011,When do we say the Act of Contrition?,5531,After we are confirmed,4,4,51.80121005482016,3326
+1011,When do we say the Act of Contrition?,5541,At the end of each Mass,4,4,48.33020194695322,2762
+1011,When do we say the Act of Contrition?,5551,At the start of each school year,4,4,42.663194890917666,707
+1021,What is the short blessing we say when we begin to pray?,5561,Sign of the Cross,4,4,60.07804784670424,22907
+1021,What is the short blessing we say when we begin to pray?,5571,Act of Contrition,4,4,44.06914481294647,847
+1021,What is the short blessing we say when we begin to pray?,5581,Ave Maria,4,4,41.164622414622414,506
+1021,What is the short blessing we say when we begin to pray?,5591,The Lord's Prayer,4,4,46.647923053617006,1968
+1031,In what kind of prayer do we ask God for good things?,5601,Prayer of Praise,4,4,53.59297019520316,6004
+1031,In what kind of prayer do we ask God for good things?,5611,Blessing and Adoration,4,4,55.38526727014312,5317
+1031,In what kind of prayer do we ask God for good things?,5621,Prayer of Thanksgiving,4,4,56.58156625355207,6770
+1031,In what kind of prayer do we ask God for good things?,5631,Prayer of Petition,4,4,64.74334758629237,8153
+1071,What is Transubstantiation?,5761,The conversion of bread and wine into the real Body and Blood of Jesus,4,4,61.18263731430329,14523
+1071,What is Transubstantiation?,5771,The process of becoming a priest,4,4,55.485687718707794,4682
+1071,What is Transubstantiation?,5781,The sharing of the Good News of salvation,4,4,50.95207728099388,2566
+1071,What is Transubstantiation?,5791,"Jesus’ Passion, Death, Resurrection, and Ascension",4,4,55.24713237827992,4514
+1091,What does the Church teach us about Holy Communion?,5841,Receive the Eucharist at least once a year,4,4,50.899160879629626,2305
+1091,What does the Church teach us about Holy Communion?,5851,Receive the Eucharist only in a state of grace,4,4,56.24460925970112,4573
+1091,What does the Church teach us about Holy Communion?,5861,Receive the Eucharist daily if possible,4,4,57.62416055958326,10020
+1091,What does the Church teach us about Holy Communion?,5871,All of these,4,4,61.43742739966337,9379
+1111,What is a result of Baptism?,5921,We are cleansed from sin,4,4,52.15504950097395,4528
+1111,What is a result of Baptism?,5931,We become a member of the Church,4,4,54.72631333298761,3508
+1111,What is a result of Baptism?,5941,We become a child of God,4,4,49.71163551366406,2663
+1111,What is a result of Baptism?,5951,All of these,4,4,62.097302970166425,15625
+1131,Which is not a virtue?,6001,Faith,4,4,40.381572736712926,535
+1131,Which is not a virtue?,6011,Hope,4,4,38.4632775392529,487
+1131,Which is not a virtue?,6021,Charity,4,4,43.4430476071343,969
+1131,Which is not a virtue?,6031,Physical strength,4,4,59.56597684870671,24227
+1171,What is the Nicene Creed?,6161,A profession of what we believe as Christians,4,4,77.08333333333333,1
+1171,What is the Nicene Creed?,6171,Rules for the church in Nicaea,4,4,72.91666666666667,1
+1191,"In the fall, Adam and Eve ate from ____.",6241,The Tree of Knowledge of Good and Evil,4,4,75.0,2
+1201,"After the fall, Adam and Eve did NOT ____.",6311,Lose the love of God,4,4,75.0,2
+1291,Which of the choices below has events listed in correct chronological order?,6661,"Moses was given the Ten Commandments, Mary visited Elizabeth, Jesus was baptized",4,4,77.08333333333333,1
+1291,Which of the choices below has events listed in correct chronological order?,6671,None of these,4,4,72.91666666666667,1
+1331,Why is it important to form your conscience?,6801,To do good and avoid sin,4,4,72.91666666666667,1
+1331,Why is it important to form your conscience?,6821,To imitate Judas,4,4,77.08333333333333,1
+1381,Which would violate the Seventh Commandment?,7001,Taking something that does not belong to you,4,4,77.08333333333333,1
+1381,Which would violate the Seventh Commandment?,7021,Taking the Lord's name in vain,4,4,72.91666666666667,1
+1391,"In the Hail Mary, what do we ask Mary to do?",7041,Pray for us,4,4,75.0,2
+1401,Which is not an obstacle to prayer?,7101,Holiness,4,4,75.0,2
+1411,Which is a Sorrowful Mystery?,7151,The Crowning with Thorns,4,4,75.0,2
+1451,Which is a symbol of Baptism?,7301,Water,4,4,75.0,2
+1461,What is the Act of Contrition?,7351,"A prayer expressing sorrow for offending God, and a firm choice to avoid future sin",4,4,75.0,2
+1481,What grace(s) does Confirmation confer?,7431,All of these,4,4,75.0,2
+1491,Sacred chrism is _______.,7441,Water,4,4,77.08333333333333,1
+1491,Sacred chrism is _______.,7451,Oil,4,4,72.91666666666667,1
+1501,Which describes the Eucharist?,7501,The source and summit of the Christian life,4,4,75.0,2
+1521,Which is the highest degree of Holy Orders?,7581,Bishops,4,4,77.08333333333333,1
+1521,Which is the highest degree of Holy Orders?,7591,Saints,4,4,72.91666666666667,1
+6791,God loves me and all people.,28641,This is true,4,4,58.39122674932568,25783
+6791,God loves me and all people.,28651,This is not true,4,4,43.79624979072493,181
+6791,God loves me and all people.,28661,Not sure,4,4,47.607131925313745,198
+6811,Sin hurts our friendship with God.,28701,This is true,4,4,59.536417759241694,22716
+6811,Sin hurts our friendship with God.,28711,This is not true,4,4,49.92269113947436,2147
+6811,Sin hurts our friendship with God.,28721,Not sure,4,4,48.74374478732277,1311
+6821,I need to pray often to be friends with God.,28731,This is true,4,4,57.310122216869054,9816
+6821,I need to pray often to be friends with God.,28741,This is not true,4,4,58.72703803816588,10296
+6821,I need to pray often to be friends with God.,28751,Not sure,4,4,58.78439316342009,6055
+6841,God wants me to love others.,28791,This is true,4,4,58.41862122426751,25723
+6841,God wants me to love others.,28801,This is not true,4,4,47.4119040568552,308
+6841,God wants me to love others.,28811,Not sure,4,4,43.04860196164544,138
+7111,I attend Mass.,29861,Weekly or more often,4,4,60.64976610619637,12242
+7111,I attend Mass.,29871,Sometimes,4,4,57.34285702588327,7547
+7111,I attend Mass.,29881,Only at school,4,4,54.826452443902106,6109
+7111,I attend Mass.,29891,No,4,4,48.412143412143415,275
+7121,I have been baptized.,29901,Yes,4,4,59.29915419636816,22188
+7121,I have been baptized.,29911,No,4,4,52.83046514527996,3242
+7121,I have been baptized.,29921,Not sure,4,4,48.98770965069308,724
+7151,I go to confession regularly.,29971,Yes,4,4,57.97806436043336,11912
+7151,I go to confession regularly.,29981,No,4,4,58.404652141491475,14251
+7171,I can find a Scripture verse in the Bible pretty easily.,30011,Yes,4,4,59.31246570861821,14365
+7171,I can find a Scripture verse in the Bible pretty easily.,30021,No,4,4,56.87713309932938,11782
+7211,"I learn about being Catholic all day, not just during religion lessons.",30091,Agree,4,4,58.41774162834469,19207
+7211,"I learn about being Catholic all day, not just during religion lessons.",30101,Disagree,4,4,57.63122028005548,6956
+7232,What do the sacraments do?,1780,Allow us to share in God’s life,4,4,48.717948717948715,1
+7234,Which is NOT a result of original sin?,1788,Suffering,4,4,48.470836412909584,1968
+7234,Which is NOT a result of original sin?,1789,Sickness,4,4,52.30066517219754,3030
+7234,Which is NOT a result of original sin?,1790,Virtue,4,4,62.51943075364488,13893
+7234,Which is NOT a result of original sin?,1792,Death,4,4,54.95186215993585,7384
+7235,"After death, those in friendship with God will: ",1794,Live forever in heaven,4,4,77.08333333333333,1
+7235,"After death, those in friendship with God will: ",1795,Become angels,4,4,72.91666666666667,1
+7236,Human beings were first made ___________.,1798,For communion with God and each other,4,4,72.91666666666667,1
+7236,Human beings were first made ___________.,1800,To be as happy as they can in this life,4,4,77.08333333333333,1
+7237,How are humans different from other animals?,1804,Humans have immortal souls,4,4,72.91666666666667,1
+7237,How are humans different from other animals?,1805,Humans are not different from other animals,4,4,77.08333333333333,1
+7238,Which of the following is NOT one of the Beatitudes?,1807,Blessed are those who mourn,4,4,75.0,2
+7239,Who gives the sacraments their power?,1810,Jesus,4,4,77.08333333333333,1
+7239,Who gives the sacraments their power?,1814,The Pope,4,4,72.91666666666667,1
+7240,What is the term for bread and wine becoming Christ’s Body and Blood?,1816,Transubstantiation,4,4,75.0,2
+7277,Which is NOT a Spiritual Work of Mercy?,30146,Praying for the dead,4,4,53.62584641273166,2258
+7277,Which is NOT a Spiritual Work of Mercy?,30147,Feeding the hungry ,4,4,66.68105845026658,3398
+7277,Which is NOT a Spiritual Work of Mercy?,30148,Forgiving a friend,4,4,60.265673710569715,4185
+7277,Which is NOT a Spiritual Work of Mercy?,30149,Counseling the doubtful,4,4,56.477499389931694,16438
+7278,"What are the virtues of faith, hope, and charity (love) called?",30150,Cardinal virtues   ,4,4,58.04461650276628,12942
+7278,"What are the virtues of faith, hope, and charity (love) called?",30151,Theological virtues    ,4,4,65.47012374918187,5989
+7278,"What are the virtues of faith, hope, and charity (love) called?",30152,Common virtues,4,4,54.083877197017614,4219
+7278,"What are the virtues of faith, hope, and charity (love) called?",30153,Natural virtues   ,4,4,50.09134236086861,3126
+7279,How does receiving Holy Communion affect our lives?,30154,It forgives mortal sin   ,4,4,53.68684857334797,7535
+7279,How does receiving Holy Communion affect our lives?,30155,"It makes it impossible for us to sin
+",4,4,42.547050695635605,848
+7279,How does receiving Holy Communion affect our lives?,30156,It helps us love God and our neighbor,4,4,62.691653085968404,14674
+7279,How does receiving Holy Communion affect our lives?,30157,It takes the place of confession,4,4,52.10438759675282,3212
+7280,Jesus' suffering and death is also called __________.,30158,Original Sin,4,4,48.670702057798835,3224
+7280,Jesus' suffering and death is also called __________.,30159,The Coronation ,4,4,55.383279404725116,6671
+7280,Jesus' suffering and death is also called __________.,30160,The Passion ,4,4,63.72854202679244,10974
+7280,Jesus' suffering and death is also called __________.,30161,The Exodus ,4,4,55.97299907900353,5402
+7300,God gave us the sacrament of Confirmation at ___________.,30239,Christmas,4,4,48.717948717948715,1
+7301,What is the priest's role in the sacrament of marriage?,30244,He is the minister of the sacrament,4,4,75.0,2
+7330,What is the role of the priest in confession?,30359,Confession of sins to a priest is not necessary,4,4,39.603890894504616,554
+7330,What is the role of the priest in confession?,30360,The priest forgives our sins under his own power,4,4,46.600105573976016,1838
+7330,What is the role of the priest in confession?,30361,The priest forgives our sins in Jesus' name,4,4,59.59281572874628,23619
+7330,What is the role of the priest in confession?,30362,The priest has no role in confession,4,4,45.23972115521411,284
+7331,What should we do before going to confession?,30363,Go to Mass,4,4,50.317936353342674,7658
+7331,What should we do before going to confession?,30364,Examine our conscience,4,4,63.28702533616108,16549
+7331,What should we do before going to confession?,30365,Anoint ourselves with oil,4,4,47.664219595334146,1294
+7331,What should we do before going to confession?,30366,Point out the sins of others,4,4,43.94569014542205,746
+7332,What is God’s ultimate expression of love?,30370,Jesus dying for our sins,4,4,75.0,2
+7336,What happened at the Annunciation?,30385,Mary said yes to be the Mother of God,4,4,48.717948717948715,1
+7338,The Eucharist is ________________.,30391,The real Body and Blood of Jesus,4,4,48.717948717948715,1
+7339,Which of the following is NOT a liturgical season?,30395,Easter,4,4,49.85717349187335,1366
+7339,Which of the following is NOT a liturgical season?,30396,Ordinary Time,4,4,52.866732836873986,5530
+7339,Which of the following is NOT a liturgical season?,30397,Advent,4,4,47.234009928507085,1055
+7339,Which of the following is NOT a liturgical season?,30398,Extraordinary Time,4,4,61.005358492938335,18321
+7340,Which theological virtue is the greatest?,30399,Faith,4,4,54.29538058408351,4784
+7340,Which theological virtue is the greatest?,30400,Hope,4,4,45.13318112633181,1022
+7340,Which theological virtue is the greatest?,30401,Charity,4,4,60.8674682481653,1865
+7340,Which theological virtue is the greatest?,30402,They are all equal,4,4,59.638452637159396,18563
+7341,What are the four cardinal virtues?,30403,"Faith, charity, patience, and peace",4,4,57.87122391358549,8997
+7341,What are the four cardinal virtues?,30404,"Peace, love, joy, and happiness",4,4,54.23855313762079,9225
+7341,What are the four cardinal virtues?,30405,"Faith, wisdom, meekness, and poverty",4,4,53.413242678233004,2071
+7341,What are the four cardinal virtues?,30406,"Prudence, temperance, justice, and fortitude",4,4,66.23339227418813,5981
+7342,Which of the following books of the Bible is in the Old Testament?,30407,Isaiah,4,4,77.08333333333333,1
+7342,Which of the following books of the Bible is in the Old Testament?,30408,Romans,4,4,72.91666666666667,1
+7343,What is the difference between venial sin and mortal sin?,30411,"Venial sin hurts our friendship with God, and mortal sin breaks our friendship with God",4,4,75.0,2
+7348,Prayer can be described as a battle because __________________.,30431,Prayer is destructive,4,4,53.56802329677556,3872
+7348,Prayer can be described as a battle because __________________.,30432,Prayer can only be done by soldiers,4,4,42.4772512107911,1293
+7348,Prayer can be described as a battle because __________________.,30433,Distractions make praying difficult,4,4,62.88108240588621,13893
+7348,Prayer can be described as a battle because __________________.,30434,We should pray for the end of war,4,4,54.41497964301312,7172
+7349,The goal of the Christian life is to _______________.,30436,Be with God in Heaven forever,4,4,75.0,2
+7350,The cardinal virtue of temperance helps us _______________.,30439,Practice self-control,4,4,72.91666666666667,1
+7350,The cardinal virtue of temperance helps us _______________.,30442,Do to others as we would want them to do to us,4,4,77.08333333333333,1
+7351,Which is an example of justice?,30445,Returning what you have borrowed,4,4,75.0,2
+7383,One way we can grow in virtue is by _______________________.,30574,Forgiving those who hurt us,4,4,48.717948717948715,1
+7384,What is the Assumption of Mary?,30578,Mary going to Egypt with Jesus,4,4,48.717948717948715,1
+7435,_______________________ is/are the teaching of Jesus that describes the way to live as His disciples.,30779,The Beatitudes,4,4,63.24430286694437,371
+7435,_______________________ is/are the teaching of Jesus that describes the way to live as His disciples.,30780,Justice,4,4,47.731601731601735,35
+7435,_______________________ is/are the teaching of Jesus that describes the way to live as His disciples.,30781,Mission,4,4,56.23802123802124,39
+7435,_______________________ is/are the teaching of Jesus that describes the way to live as His disciples.,30782,The Kingdom of God,4,4,48.87588758875888,102
+7436,"The Great Commandment of Jesus states, “You shall love God with all your heart, soul, mind, and _______________________.",30783,comfort,4,4,49.02662993572085,44
+7436,"The Great Commandment of Jesus states, “You shall love God with all your heart, soul, mind, and _______________________.",30784,service,4,4,54.525252525252526,40
+7436,"The Great Commandment of Jesus states, “You shall love God with all your heart, soul, mind, and _______________________.",30785,strength,4,4,61.47023172905526,426
+7436,"The Great Commandment of Jesus states, “You shall love God with all your heart, soul, mind, and _______________________.",30786,Beatitudes,4,4,48.67458367458367,37
+7437,Mary is a perfect model for how we should live as a/an ________________________________.,30787,Eucharistic Minister,4,4,46.94895382395382,56
+7437,Mary is a perfect model for how we should live as a/an ________________________________.,30788,disciple,4,4,61.62960450273883,402
+7437,Mary is a perfect model for how we should live as a/an ________________________________.,30789,lector,4,4,52.922647527910684,39
+7437,Mary is a perfect model for how we should live as a/an ________________________________.,30790,idol,4,4,56.97373737373737,50
+7438,What are the three types of Sacraments?,30791,"initiation, healing, vocation (service)",4,4,66.86846535530746,228
+7438,What are the three types of Sacraments?,30792,"wisdom, evangelization, comfort",4,4,53.426421073479894,51
+7438,What are the three types of Sacraments?,30793,"resurrection, sacrifice, temptation",4,4,53.35118865421896,100
+7438,What are the three types of Sacraments?,30794,"joyful, sorrowful, glorious",4,4,53.63967051467051,168
+7439,Pentecost takes place during which Liturgical Season?,30795,Advent,4,4,56.38274638274638,148
+7439,Pentecost takes place during which Liturgical Season?,30796,Lent,4,4,57.66736328805295,146
+7439,Pentecost takes place during which Liturgical Season?,30797,Easter,4,4,64.05476566614007,211
+7439,Pentecost takes place during which Liturgical Season?,30798,Christmas,4,4,48.61952861952862,42
+7440,What is the most important role of the priest during the Liturgy of the Eucharist?,30799,welcomes the assembly,4,4,48.36776859504132,22
+7440,What is the most important role of the priest during the Liturgy of the Eucharist?,30800,accepts the gifts,4,4,50.182436611008036,49
+7440,What is the most important role of the priest during the Liturgy of the Eucharist?,30801,gives the homily,4,4,45.236081747709655,44
+7440,What is the most important role of the priest during the Liturgy of the Eucharist?,30802,consecrates the bread and wine,4,4,62.02733352038908,432
+7441,Solidarity is one of the seven themes of __________________________________.,30803,Catholic Social Teaching,4,4,62.79431482971306,226
+7441,Solidarity is one of the seven themes of __________________________________.,30804,Diocesan Vocation Prayer,4,4,57.630215195432584,116
+7441,Solidarity is one of the seven themes of __________________________________.,30805,the Great Commandment,4,4,52.42883379247016,121
+7441,Solidarity is one of the seven themes of __________________________________.,30806,Pastoral Ministry,4,4,60.72751322751323,84
+7442,We heal our relationship with God and others through the Sacrament of ____________________________.,30807,Baptism,4,4,50.511260142407686,122
+7442,We heal our relationship with God and others through the Sacrament of ____________________________.,30808,Matrimony,4,4,48.5725677830941,19
+7442,We heal our relationship with God and others through the Sacrament of ____________________________.,30809,Reconciliation,4,4,63.628962034134446,348
+7442,We heal our relationship with God and others through the Sacrament of ____________________________.,30810,Eucharist,4,4,53.26067694488747,58
+7443,Which prayer is part of the Rosary?,30811,Act of Contrition,4,4,51.394557823129254,49
+7443,Which prayer is part of the Rosary?,30812,Angelus,4,4,50.19360269360269,30
+7443,Which prayer is part of the Rosary?,30813,Our Father,4,4,61.29190286234166,433
+7443,Which prayer is part of the Rosary?,30814,Act of Hope,4,4,50.01336898395722,35
+7444,Always telling the truth is an example of which Commandment?,30815,1st Commandment,4,4,49.5959595959596,85
+7444,Always telling the truth is an example of which Commandment?,30816,4th Commandment,4,4,52.829588993382096,116
+7444,Always telling the truth is an example of which Commandment?,30817,8th Commandment,4,4,65.60910026187804,217
+7444,Always telling the truth is an example of which Commandment?,30818,5th Commandment,4,4,60.06616553128181,129
+7445,Those who care for everything that God has given them are __________________________________.,30819,Eucharistic Ministers,4,4,52.26070226070226,148
+7445,Those who care for everything that God has given them are __________________________________.,30820,Altar Servers,4,4,48.31429044543798,61
+7445,Those who care for everything that God has given them are __________________________________.,30821,Lectors,4,4,57.74078816332337,71
+7445,Those who care for everything that God has given them are __________________________________.,30822,Stewards of Creation,4,4,65.67377898838573,267
+7446,_________________________ is the only person of the Blessed Trinity to become human.,30823,"God, the Father",4,4,50.25730994152047,95
+7446,_________________________ is the only person of the Blessed Trinity to become human.,30824,"Jesus, the Son of God",4,4,62.448583775903366,388
+7446,_________________________ is the only person of the Blessed Trinity to become human.,30825,The Holy Spirit,4,4,50.259350259350256,38
+7446,_________________________ is the only person of the Blessed Trinity to become human.,30826,Mary,4,4,53.842268842268844,26
+7447,Which of the following is the correct response for the petitions during the Mass?,30827,Thanks be to God,4,4,55.52086521783492,199
+7447,Which of the following is the correct response for the petitions during the Mass?,30828,And with your Spirit,4,4,51.96969696969697,51
+7447,Which of the following is the correct response for the petitions during the Mass?,30829,"Lord, hear our prayer",4,4,64.41243712848652,243
+7447,Which of the following is the correct response for the petitions during the Mass?,30830,Amen,4,4,54.47358197358197,52
+7448,What is the feast day in November that celebrates all those who are with God in heaven?,30831,All Saints’ Day,4,4,61.635401635401635,442
+7448,What is the feast day in November that celebrates all those who are with God in heaven?,30832,Christmas,4,4,45.04208754208754,24
+7448,What is the feast day in November that celebrates all those who are with God in heaven?,30833,Pentecost,4,4,49.31056597723264,63
+7448,What is the feast day in November that celebrates all those who are with God in heaven?,30834,Easter,4,4,47.68013468013468,15
+7449,God calls us to ____________________ the life and dignity of every human person.,30835,ignore,4,4,46.656565656565654,5
+7449,God calls us to ____________________ the life and dignity of every human person.,30836,forget,4,4,44.19191919191919,10
+7449,God calls us to ____________________ the life and dignity of every human person.,30837,hate,4,4,31.515151515151516,3
+7449,God calls us to ____________________ the life and dignity of every human person.,30838,respect,4,4,59.646176046176045,526
+7450,When should we make an examination of conscience?,30839,After Communion,4,4,52.04685746352413,108
+7450,When should we make an examination of conscience?,30840,Everyday and especially before the Sacrament of Reconciliation,4,4,63.29521106380611,364
+7450,When should we make an examination of conscience?,30841,When we pray before a meal,4,4,48.835177168510505,63
+7450,When should we make an examination of conscience?,30842,Never,4,4,45.572390572390574,9
+7451,Evangelization and _____________________ are part of having a missionary spirit.,30843,penance,4,4,56.77308802308802,224
+7451,Evangelization and _____________________ are part of having a missionary spirit.,30844,service,4,4,66.32096364716685,188
+7451,Evangelization and _____________________ are part of having a missionary spirit.,30845,fasting,4,4,54.941994199419945,101
+7451,Evangelization and _____________________ are part of having a missionary spirit.,30846,perfection,4,4,45.66634082763115,31
+7597,During which of the following parts of the Mass do we receive Holy Communion?,31424,Introductory Rites,4,4,44.88073267051656,1020
+7597,During which of the following parts of the Mass do we receive Holy Communion?,31425,Liturgy of the Word,4,4,45.825774467078816,2394
+7597,During which of the following parts of the Mass do we receive Holy Communion?,31426,Liturgy of the Eucharist,4,4,60.771137124877356,21500
+7597,During which of the following parts of the Mass do we receive Holy Communion?,31427,Concluding Rites,4,4,48.72010077824921,1307
+7603,"Because creation is a gift from God to us, we should _________________________",31451,Treat it with respect,4,4,48.717948717948715,1
+7604,After naming all of the animals Adam was ___________________________,31453,Satisfied,4,4,48.717948717948715,1
+7605,In heaven we will be in perfect _______________________ with God forever,31456,Clothing,4,4,40.61602418745276,588
+7605,In heaven we will be in perfect _______________________ with God forever,31457,Housing,4,4,51.912912912912915,2962
+7605,In heaven we will be in perfect _______________________ with God forever,31458,Union,4,4,62.07051352239133,18271
+7605,In heaven we will be in perfect _______________________ with God forever,31459,Entertainment,4,4,48.452032520325204,4102
+7606,"While ancient myths present the gods as selfish and jealous, Sacred Scripture teaches that God created everything out of:",31461,Love,4,4,75.0,2
+12,What word best describes God's call for us to take care of creation? ,37,Tolerance ,4,5,57.44033293221019,4432
+12,What word best describes God's call for us to take care of creation? ,38,Importance,4,5,57.172260175956,8933
+12,What word best describes God's call for us to take care of creation? ,39,Stewardship ,4,5,65.93896377703366,11651
+12,What word best describes God's call for us to take care of creation? ,40,Cleanliness,4,5,58.708259634453555,8295
+13,Which of the following best describes the Beatitudes? ,41,Rules to avoid sin,4,5,60.61820124320124,13729
+13,Which of the following best describes the Beatitudes? ,42,The 10 greatest saints who ever lived,4,5,49.62409983787656,2950
+13,Which of the following best describes the Beatitudes? ,43,Everything needed to celebrate Mass,4,5,53.827312534209085,3249
+13,Which of the following best describes the Beatitudes? ,44,Part of Jesus’ teaching on how to be perfectly happy,4,5,64.79561042524006,13371
+97,I am confirmed/I plan to be confirmed.,408,Yes,4,5,61.475062291481905,26313
+97,I am confirmed/I plan to be confirmed.,409,No,4,5,57.78397690011256,6811
+115,I should help everyone to show them God's love.,405,This is true,4,5,60.90725366344861,31559
+115,I should help everyone to show them God's love.,406,This is not true,4,5,50.93650793650794,280
+115,I should help everyone to show them God's love.,407,Not sure,4,5,57.839506172839506,972
+116,My parents bring me to Church often and we pray together.,410,Yes,4,5,61.53721019978033,18718
+116,My parents bring me to Church often and we pray together.,411,No,4,5,59.63476012374752,14438
+117,Holy Communion looks like bread and wine but is really Jesus' Body and Blood.,412,This is true,4,5,61.59753129013091,28986
+117,Holy Communion looks like bread and wine but is really Jesus' Body and Blood.,413,This is not true,4,5,53.69153190749435,1919
+117,Holy Communion looks like bread and wine but is really Jesus' Body and Blood.,414,Not sure,4,5,55.28156954841235,2271
+118,Whom did God promise he would have descendants as numerous as the stars?,415,Adam,4,5,56.16279312577001,5322
+118,Whom did God promise he would have descendants as numerous as the stars?,416,Noah,4,5,54.907442546911234,5273
+118,Whom did God promise he would have descendants as numerous as the stars?,417,Abraham,4,5,66.83556663096304,15254
+118,Whom did God promise he would have descendants as numerous as the stars?,418,Moses,4,5,55.30595488676907,7445
+119,The _______ is the leader of the earthly Church.,419,Oldest bishop,4,5,51.480223145002306,2650
+119,The _______ is the leader of the earthly Church.,420,Pope,4,5,63.63325241752557,25133
+119,The _______ is the leader of the earthly Church.,421,Parish priest,4,5,51.466285271595005,3733
+119,The _______ is the leader of the earthly Church.,422,Deacon,4,5,51.70795795795796,1777
+120,What is the difference between mortal and venial sin?,423,"Mortal sin breaks our relationship with God, while venial sin only damages it",4,5,63.840239750996865,22102
+120,What is the difference between mortal and venial sin?,424,"Mortal sin is absolute, but venial sin is relative",4,5,54.16393442622951,3051
+120,What is the difference between mortal and venial sin?,425,"Mortal sin is only done by mortals, but divine beings can commit venial sins",4,5,48.088954659431906,2705
+120,What is the difference between mortal and venial sin?,426,"Mortal sin is done with complete consent, but venial sin can be done unwillingly",4,5,57.675516951066754,5413
+122,What is an effect of building good habits?,427,Having less control over our emotions,4,5,50.318636096413876,3783
+122,What is an effect of building good habits?,428,It gets easier to do good,4,5,63.515734716093704,26747
+122,What is an effect of building good habits?,429,We are more likely to sin,4,5,48.14463752852379,1900
+122,What is an effect of building good habits?,430,We no longer need God's grace,4,5,45.06187624750499,835
+123,In which prayer do we think about the Sorrowful Mysteries?,431,The Our Father,4,5,53.28522840445722,5915
+123,In which prayer do we think about the Sorrowful Mysteries?,432,The Rosary,4,5,65.76060449939894,16176
+123,In which prayer do we think about the Sorrowful Mysteries?,433,The Angelus,4,5,58.98015494004033,6285
+123,In which prayer do we think about the Sorrowful Mysteries?,434,The Glory Be,4,5,54.980936819172115,4900
+127,Which is NOT a Corporal Work of Mercy?,447,Feeding the hungry,4,5,49.42937324602432,1071
+127,Which is NOT a Corporal Work of Mercy?,448,Sheltering the homeless,4,5,46.37803590285111,947
+127,Which is NOT a Corporal Work of Mercy?,449,Bearing wrongs patiently,4,5,61.81623429213366,29785
+127,Which is NOT a Corporal Work of Mercy?,450,Visiting the sick,4,5,54.47766703580657,1505
+128,Someone who prays for others is a/an ___________.,451,Wanderer,4,5,49.76291578202406,1887
+128,Someone who prays for others is a/an ___________.,452,Intercessor,4,5,65.20915769539684,15087
+128,Someone who prays for others is a/an ___________.,453,Favor seeker,4,5,53.333333333333336,4340
+128,Someone who prays for others is a/an ___________.,454,Neighbor,4,5,59.25363729033454,11995
+129,What is virtue?,455,A habit of doing the right things,4,5,64.87204309896902,20324
+129,What is virtue?,456,Memorizing the rules of Christianity,4,5,55.12240760954312,6416
+129,What is virtue?,457,Another word for an angel,4,5,46.40567765567766,1456
+129,What is virtue?,458,One of the sacraments,4,5,54.840602386074714,5117
+130,I have received First Communion.,459,Yes,4,5,61.86137986783003,26668
+130,I have received First Communion.,460,No,4,5,55.95169537371516,6368
+379,Why are some souls sent to purgatory?,1340,They rejected God’s love,4,5,55.470880716782354,9033
+379,Why are some souls sent to purgatory?,1341,They need to be purified of sin,4,5,66.33327622147976,15567
+379,Why are some souls sent to purgatory?,1342,They did not sin or do good,4,5,55.618497381338216,4733
+379,Why are some souls sent to purgatory?,1343,They need to wait for Jesus to save them later,4,5,56.161717832578425,3979
+761,Who is NOT someone with whom God made a covenant?,4521,Noah,4,5,52.46748619276679,1874
+761,Who is NOT someone with whom God made a covenant?,4531,Moses,4,5,49.06651760760201,1792
+761,Who is NOT someone with whom God made a covenant?,4541,Abraham,4,5,50.99290036022803,3178
+761,Who is NOT someone with whom God made a covenant?,4551,Job,4,5,63.09827045013557,26525
+771,How did God test Abraham's faith?,4561,He told him he could eat from any tree except one,4,5,50.81463403611055,4923
+771,How did God test Abraham's faith?,4571,He told him to sacrifice his son,4,5,65.74898352236251,18699
+771,How did God test Abraham's faith?,4581,He told him to build an ark,4,5,51.659849180510335,3996
+771,How did God test Abraham's faith?,4591,He took away his family and his home,4,5,58.45696291112666,5719
+791,With whom did God make a covenant through Moses?,4641,The People of Israel,4,5,63.63920761953739,20753
+791,With whom did God make a covenant through Moses?,4651,The Holy Family,4,5,50.17771509167842,3549
+791,With whom did God make a covenant through Moses?,4661,Cain and Abel,4,5,53.901234567901234,1530
+791,With whom did God make a covenant through Moses?,4671,The Egyptians,4,5,58.544367489492686,7512
+821,Which is not made in the image and likeness of God?,4761,A baby growing in her mother's womb,4,5,52.57227138643068,4522
+821,Which is not made in the image and likeness of God?,4771,A very sick and elderly person,4,5,56.505040806529045,6256
+821,Which is not made in the image and likeness of God?,4781,A beloved family dog,4,5,65.2406404617119,19025
+821,Which is not made in the image and likeness of God?,4791,A child with a disability,4,5,53.28934137757667,3542
+851,Who is called to be holy?,4881,"Priests, bishops, and deacons",4,5,51.95495724324782,3940
+851,Who is called to be holy?,4891,Saints,4,5,54.414124339263196,4147
+851,Who is called to be holy?,4901,Everyone,4,5,63.72375396925315,23838
+851,Who is called to be holy?,4911,People who have never sinned,4,5,50.4334121355398,1411
+861,To covet means to__________.,4921,Envy or Desire,4,5,66.17388442187426,11823
+861,To covet means to__________.,4931,Steal,4,5,58.79186673780307,5626
+861,To covet means to__________.,4941,Destroy,4,5,50.982812878237716,918
+861,To covet means to__________.,4951,Praise,4,5,57.51240676354343,14964
+871,What does the Fourth Commandment tell us to do?,4961,Raise children of our own,4,5,39.89925925925926,375
+871,What does the Fourth Commandment tell us to do?,4971,Obey our parents when they ask us to sin,4,5,52.05287071458075,2153
+871,What does the Fourth Commandment tell us to do?,4981,Treat our parents as equals,4,5,49.119929453262785,1263
+871,What does the Fourth Commandment tell us to do?,4991,Respect and love our parents,4,5,62.00018810074676,29549
+881,Jesus gave us the Beatitudes in the Sermon on the ____________.,5001,Hill,4,5,58.17167596369994,12021
+881,Jesus gave us the Beatitudes in the Sermon on the ____________.,5011,Quarry,4,5,55.97061387124891,2680
+881,Jesus gave us the Beatitudes in the Sermon on the ____________.,5021,River,4,5,51.90310347496324,4310
+881,Jesus gave us the Beatitudes in the Sermon on the ____________.,5031,Mount,4,5,66.16554997208263,14330
+901,What is sin?,5081,A failure to love God and neighbor,4,5,62.75672358704162,26268
+901,What is sin?,5091,A choice to do what makes us happy,4,5,52.38595689589521,1462
+901,What is sin?,5101,Any use of free will,4,5,52.75127052027348,3040
+901,What is sin?,5111,Taking care of the body instead of the soul,4,5,52.760220228031386,2564
+911,What is temptation?,5121,A not very serious sin,4,5,46.91647150663544,2136
+911,What is temptation?,5131,An urge to sin,4,5,63.51951553293835,27132
+911,What is temptation?,5141,A demon,4,5,49.09702660406886,1420
+911,What is temptation?,5151,One of the seven deadly sins,4,5,48.17959733805071,2640
+931,What are the two Great Commandments?,5201,Worship God alone and do not take His name in vain,4,5,57.730552515302605,10970
+931,What are the two Great Commandments?,5211,Love God with your whole heart and know Him with your whole mind,4,5,57.287139325415346,6430
+931,What are the two Great Commandments?,5221,"Love God, and love your neighbor as yourself",4,5,64.39126134262246,15511
+931,What are the two Great Commandments?,5231,Go forth to all the nations and baptize all peoples,4,5,46.336130180523774,438
+941,What is the New Commandment?,5241,Give everyone what they ask for,4,5,42.61562998405104,419
+941,What is the New Commandment?,5251,Try to become God,4,5,47.443762781186095,489
+941,What is the New Commandment?,5261,Spread Jesus’ teachings throughout the world,4,5,57.590137369719734,12077
+941,What is the New Commandment?,5271,Love one another as Jesus loved us,4,5,63.12195335213238,20340
+991,How should we form our consciences?,5441,Studying the universe,4,5,44.89184341036193,1053
+991,How should we form our consciences?,5451,Doing good things and forming good habits,4,5,62.9796024382919,27385
+991,How should we form our consciences?,5461,Doing what makes us feel good,4,5,51.93498734705591,4259
+991,How should we form our consciences?,5471,Ignoring our feelings,4,5,44.320766008378214,557
+1001,How was Adam different from everything else God created on earth?,5481,He could know and love God,4,5,62.31898324889753,27774
+1001,How was Adam different from everything else God created on earth?,5491,He walked on two legs,4,5,53.8968253968254,3360
+1001,How was Adam different from everything else God created on earth?,5501,He was hairless,4,5,50.13355592654424,1198
+1001,How was Adam different from everything else God created on earth?,5511,He had lungs,4,5,50.017979144192736,927
+1011,When do we say the Act of Contrition?,5521,During confession,4,5,63.694172814090464,25264
+1011,When do we say the Act of Contrition?,5531,After we are confirmed,4,5,53.87192763197048,3736
+1011,When do we say the Act of Contrition?,5541,At the end of each Mass,4,5,50.05435319695622,3373
+1011,When do we say the Act of Contrition?,5551,At the start of each school year,4,5,44.06991260923845,890
+1021,What is the short blessing we say when we begin to pray?,5561,Sign of the Cross,4,5,62.66060633745984,29192
+1021,What is the short blessing we say when we begin to pray?,5571,Act of Contrition,4,5,45.6243654822335,985
+1021,What is the short blessing we say when we begin to pray?,5581,Ave Maria,4,5,42.193126022913255,611
+1021,What is the short blessing we say when we begin to pray?,5591,The Lord's Prayer,4,5,47.90514905149052,2463
+1031,In what kind of prayer do we ask God for good things?,5601,Prayer of Praise,4,5,55.29779648138407,7605
+1031,In what kind of prayer do we ask God for good things?,5611,Blessing and Adoration,4,5,58.25880758807588,6561
+1031,In what kind of prayer do we ask God for good things?,5621,Prayer of Thanksgiving,4,5,58.90273206916366,8510
+1031,In what kind of prayer do we ask God for good things?,5631,Prayer of Petition,4,5,67.49908011900632,10572
+1071,What is Transubstantiation?,5761,The conversion of bread and wine into the real Body and Blood of Jesus,4,5,63.60213398994562,19502
+1071,What is Transubstantiation?,5771,The process of becoming a priest,4,5,57.28731456251892,5511
+1071,What is Transubstantiation?,5781,The sharing of the Good News of salvation,4,5,52.63619804603411,2684
+1071,What is Transubstantiation?,5791,"Jesus’ Passion, Death, Resurrection, and Ascension",4,5,57.45302796566592,5621
+1091,What does the Church teach us about Holy Communion?,5841,Receive the Eucharist at least once a year,4,5,54.23731321201361,3006
+1091,What does the Church teach us about Holy Communion?,5851,Receive the Eucharist only in a state of grace,4,5,58.342953342953344,5548
+1091,What does the Church teach us about Holy Communion?,5861,Receive the Eucharist daily if possible,4,5,59.70091830961396,12771
+1091,What does the Church teach us about Holy Communion?,5871,All of these,4,5,64.30086610161642,12000
+1111,What is a result of Baptism?,5921,We are cleansed from sin,4,5,54.55508434643295,5899
+1111,What is a result of Baptism?,5931,We become a member of the Church,4,5,56.64501478664977,4210
+1111,What is a result of Baptism?,5941,We become a child of God,4,5,51.136407861451644,3429
+1111,What is a result of Baptism?,5951,All of these,4,5,64.92992487947079,19828
+1131,Which is not a virtue?,6001,Faith,4,5,40.54456282766785,658
+1131,Which is not a virtue?,6011,Hope,4,5,39.47413061916879,525
+1131,Which is not a virtue?,6021,Charity,4,5,44.72034534534534,1185
+1131,Which is not a virtue?,6031,Physical strength,4,5,62.09179980771516,30861
+6791,God loves me and all people.,28641,This is true,4,5,60.92788168828209,32670
+6791,God loves me and all people.,28651,This is not true,4,5,44.03013182674199,236
+6791,God loves me and all people.,28661,Not sure,4,5,48.577138289368506,278
+6811,Sin hurts our friendship with God.,28701,This is true,4,5,62.15081992604209,28698
+6811,Sin hurts our friendship with God.,28711,This is not true,4,5,51.567210567210566,2860
+6811,Sin hurts our friendship with God.,28721,Not sure,4,5,51.234342203263594,1641
+6821,I need to pray often to be friends with God.,28731,This is true,4,5,60.09277486147565,12194
+6821,I need to pray often to be friends with God.,28741,This is not true,4,5,60.927937310916036,13443
+6821,I need to pray often to be friends with God.,28751,Not sure,4,5,61.27937221707887,7561
+6841,God wants me to love others.,28791,This is true,4,5,60.999197938531374,32558
+6841,God wants me to love others.,28801,This is not true,4,5,46.68280871670702,413
+6841,God wants me to love others.,28811,Not sure,4,5,43.24628776241679,217
+7111,I attend Mass.,29861,Weekly or more often,4,5,63.109045395534324,15492
+7111,I attend Mass.,29871,Sometimes,4,5,59.942184596324594,9688
+7111,I attend Mass.,29881,Only at school,4,5,57.28714221467845,7659
+7111,I attend Mass.,29891,No,4,5,50.42446941323346,356
+7121,I have been baptized.,29901,Yes,4,5,61.819169797056254,28221
+7121,I have been baptized.,29911,No,4,5,55.01482728219925,4159
+7121,I have been baptized.,29921,Not sure,4,5,51.139028475711896,796
+7151,I go to confession regularly.,29971,Yes,4,5,60.47273727975247,14940
+7151,I go to confession regularly.,29981,No,4,5,60.902949113925594,18241
+7171,I can find a Scripture verse in the Bible pretty easily.,30011,Yes,4,5,61.7955475803286,17835
+7171,I can find a Scripture verse in the Bible pretty easily.,30021,No,4,5,59.44741532976827,15335
+7211,"I learn about being Catholic all day, not just during religion lessons.",30091,Agree,4,5,60.91683962916839,24092
+7211,"I learn about being Catholic all day, not just during religion lessons.",30101,Disagree,4,5,60.17193729058136,9087
+7234,Which is NOT a result of original sin?,1788,Suffering,4,5,50.13296903460838,2440
+7234,Which is NOT a result of original sin?,1789,Sickness,4,5,54.592435987784825,3786
+7234,Which is NOT a result of original sin?,1790,Virtue,4,5,64.97599735143189,18128
+7234,Which is NOT a result of original sin?,1792,Death,4,5,57.33750745378652,8950
+7278,"What are the virtues of faith, hope, and charity (love) called?",30150,Cardinal virtues   ,4,5,59.68826044064453,15211
+7278,"What are the virtues of faith, hope, and charity (love) called?",30151,Theological virtues    ,4,5,68.22978531716396,9377
+7278,"What are the virtues of faith, hope, and charity (love) called?",30152,Common virtues,4,5,55.928393566188845,4954
+7278,"What are the virtues of faith, hope, and charity (love) called?",30153,Natural virtues   ,4,5,51.8388874156575,3776
+7279,How does receiving Holy Communion affect our lives?,30154,It forgives mortal sin   ,4,5,55.83344902586885,9609
+7279,How does receiving Holy Communion affect our lives?,30155,"It makes it impossible for us to sin
+",4,5,44.982038895082376,898
+7279,How does receiving Holy Communion affect our lives?,30156,It helps us love God and our neighbor,4,5,65.46781245288707,18431
+7279,How does receiving Holy Communion affect our lives?,30157,It takes the place of confession,4,5,54.15973335368801,4369
+7280,Jesus' suffering and death is also called __________.,30158,Original Sin,4,5,50.412742885308845,4286
+7280,Jesus' suffering and death is also called __________.,30159,The Coronation ,4,5,58.06663268373656,8505
+7280,Jesus' suffering and death is also called __________.,30160,The Passion ,4,5,66.92455043332237,13169
+7280,Jesus' suffering and death is also called __________.,30161,The Exodus ,4,5,58.38295812152021,7346
+7330,What is the role of the priest in confession?,30359,Confession of sins to a priest is not necessary,4,5,41.03856433753341,582
+7330,What is the role of the priest in confession?,30360,The priest forgives our sins under his own power,4,5,48.58218993812214,2481
+7330,What is the role of the priest in confession?,30361,The priest forgives our sins in Jesus' name,4,5,62.15124963770539,29919
+7330,What is the role of the priest in confession?,30362,The priest has no role in confession,4,5,45.776566757493185,367
+7331,What should we do before going to confession?,30363,Go to Mass,4,5,52.22781893004115,10131
+7331,What should we do before going to confession?,30364,Examine our conscience,4,5,66.21880012832852,20781
+7331,What should we do before going to confession?,30365,Anoint ourselves with oil,4,5,49.737032220777344,1538
+7331,What should we do before going to confession?,30366,Point out the sins of others,4,5,45.07095046854083,831
+7339,Which of the following is NOT a liturgical season?,30395,Easter,4,5,53.83076507164098,2055
+7339,Which of the following is NOT a liturgical season?,30396,Ordinary Time,4,5,54.70774506201998,6356
+7339,Which of the following is NOT a liturgical season?,30397,Advent,4,5,47.10382513661202,1281
+7339,Which of the following is NOT a liturgical season?,30398,Extraordinary Time,4,5,63.575840542689264,23629
+7341,What are the four cardinal virtues?,30403,"Faith, charity, patience, and peace",4,5,59.52494300320387,11066
+7341,What are the four cardinal virtues?,30404,"Peace, love, joy, and happiness",4,5,55.741058382567815,10503
+7341,What are the four cardinal virtues?,30405,"Faith, wisdom, meekness, and poverty",4,5,55.674258109040714,2417
+7341,What are the four cardinal virtues?,30406,"Prudence, temperance, justice, and fortitude",4,5,68.72272808427067,9337
+7348,Prayer can be described as a battle because __________________.,30431,Prayer is destructive,4,5,55.61914998432532,4964
+7348,Prayer can be described as a battle because __________________.,30432,Prayer can only be done by soldiers,4,5,43.577631685739796,1369
+7348,Prayer can be described as a battle because __________________.,30433,Distractions make praying difficult,4,5,65.57212843067622,18305
+7348,Prayer can be described as a battle because __________________.,30434,We should pray for the end of war,4,5,55.9428608364036,8597
+7435,_______________________ is/are the teaching of Jesus that describes the way to live as His disciples.,30779,The Beatitudes,4,5,69.26745329400197,454
+7435,_______________________ is/are the teaching of Jesus that describes the way to live as His disciples.,30780,Justice,4,5,52.06349206349206,21
+7435,_______________________ is/are the teaching of Jesus that describes the way to live as His disciples.,30781,Mission,4,5,61.44144144144144,37
+7435,_______________________ is/are the teaching of Jesus that describes the way to live as His disciples.,30782,The Kingdom of God,4,5,53.3968253968254,70
+7436,"The Great Commandment of Jesus states, “You shall love God with all your heart, soul, mind, and _______________________.",30783,comfort,4,5,57.65079365079365,35
+7436,"The Great Commandment of Jesus states, “You shall love God with all your heart, soul, mind, and _______________________.",30784,service,4,5,57.73879142300195,57
+7436,"The Great Commandment of Jesus states, “You shall love God with all your heart, soul, mind, and _______________________.",30785,strength,4,5,69.35935935935936,446
+7436,"The Great Commandment of Jesus states, “You shall love God with all your heart, soul, mind, and _______________________.",30786,Beatitudes,4,5,52.474747474747474,44
+7437,Mary is a perfect model for how we should live as a/an ________________________________.,30787,Eucharistic Minister,4,5,49.333333333333336,40
+7437,Mary is a perfect model for how we should live as a/an ________________________________.,30788,disciple,4,5,68.70253901700443,478
+7437,Mary is a perfect model for how we should live as a/an ________________________________.,30789,lector,4,5,51.666666666666664,20
+7437,Mary is a perfect model for how we should live as a/an ________________________________.,30790,idol,4,5,61.291989664082685,43
+7438,What are the three types of Sacraments?,30791,"initiation, healing, vocation (service)",4,5,71.82511030886482,277
+7438,What are the three types of Sacraments?,30792,"wisdom, evangelization, comfort",4,5,56.86609686609687,39
+7438,What are the three types of Sacraments?,30793,"resurrection, sacrifice, temptation",4,5,60.74786324786325,106
+7438,What are the three types of Sacraments?,30794,"joyful, sorrowful, glorious",4,5,62.388888888888886,160
+7439,Pentecost takes place during which Liturgical Season?,30795,Advent,4,5,63.83957922419461,169
+7439,Pentecost takes place during which Liturgical Season?,30796,Lent,4,5,64.28973277074543,159
+7439,Pentecost takes place during which Liturgical Season?,30797,Easter,4,5,71.74917491749174,202
+7439,Pentecost takes place during which Liturgical Season?,30798,Christmas,4,5,58.30065359477124,51
+7440,What is the most important role of the priest during the Liturgy of the Eucharist?,30799,welcomes the assembly,4,5,55.13227513227513,22
+7440,What is the most important role of the priest during the Liturgy of the Eucharist?,30800,accepts the gifts,4,5,52.888888888888886,45
+7440,What is the most important role of the priest during the Liturgy of the Eucharist?,30801,gives the homily,4,5,51.327913279132794,41
+7440,What is the most important role of the priest during the Liturgy of the Eucharist?,30802,consecrates the bread and wine,4,5,69.28353300446324,473
+7441,Solidarity is one of the seven themes of __________________________________.,30803,Catholic Social Teaching,4,5,70.51656920077973,228
+7441,Solidarity is one of the seven themes of __________________________________.,30804,Diocesan Vocation Prayer,4,5,65.27040314650934,113
+7441,Solidarity is one of the seven themes of __________________________________.,30805,the Great Commandment,4,5,59.30976430976431,133
+7441,Solidarity is one of the seven themes of __________________________________.,30806,Pastoral Ministry,4,5,66.64589823468329,107
+7442,We heal our relationship with God and others through the Sacrament of ____________________________.,30807,Baptism,4,5,60.763888888888886,128
+7442,We heal our relationship with God and others through the Sacrament of ____________________________.,30808,Matrimony,4,5,55.47008547008547,26
+7442,We heal our relationship with God and others through the Sacrament of ____________________________.,30809,Reconciliation,4,5,69.23701769654772,383
+7442,We heal our relationship with God and others through the Sacrament of ____________________________.,30810,Eucharist,4,5,62.22222222222222,43
+7443,Which prayer is part of the Rosary?,30811,Act of Contrition,4,5,55.84541062801932,46
+7443,Which prayer is part of the Rosary?,30812,Angelus,4,5,59.666666666666664,20
+7443,Which prayer is part of the Rosary?,30813,Our Father,4,5,68.31812865497076,476
+7443,Which prayer is part of the Rosary?,30814,Act of Hope,4,5,56.41025641025641,40
+7444,Always telling the truth is an example of which Commandment?,30815,1st Commandment,4,5,52.14170692431562,69
+7444,Always telling the truth is an example of which Commandment?,30816,4th Commandment,4,5,58.64095500459137,121
+7444,Always telling the truth is an example of which Commandment?,30817,8th Commandment,4,5,73.65209471766849,244
+7444,Always telling the truth is an example of which Commandment?,30818,5th Commandment,4,5,66.77321156773212,146
+7445,Those who care for everything that God has given them are __________________________________.,30819,Eucharistic Ministers,4,5,59.82363315696649,126
+7445,Those who care for everything that God has given them are __________________________________.,30820,Altar Servers,4,5,53.06122448979592,49
+7445,Those who care for everything that God has given them are __________________________________.,30821,Lectors,4,5,58.45614035087719,95
+7445,Those who care for everything that God has given them are __________________________________.,30822,Stewards of Creation,4,5,73.29749103942652,310
+7446,_________________________ is the only person of the Blessed Trinity to become human.,30823,"God, the Father",4,5,57.18518518518518,60
+7446,_________________________ is the only person of the Blessed Trinity to become human.,30824,"Jesus, the Son of God",4,5,68.87876486965325,439
+7446,_________________________ is the only person of the Blessed Trinity to become human.,30825,The Holy Spirit,4,5,56.95652173913044,46
+7446,_________________________ is the only person of the Blessed Trinity to become human.,30826,Mary,4,5,60.698412698412696,35
+7447,Which of the following is the correct response for the petitions during the Mass?,30827,Thanks be to God,4,5,64.13675213675214,195
+7447,Which of the following is the correct response for the petitions during the Mass?,30828,And with your Spirit,4,5,56.01851851851852,48
+7447,Which of the following is the correct response for the petitions during the Mass?,30829,"Lord, hear our prayer",4,5,70.77932098765432,288
+7447,Which of the following is the correct response for the petitions during the Mass?,30830,Amen,4,5,57.82312925170068,49
+7448,What is the feast day in November that celebrates all those who are with God in heaven?,30831,All Saints’ Day,4,5,68.40444444444445,500
+7448,What is the feast day in November that celebrates all those who are with God in heaven?,30832,Christmas,4,5,42.38095238095238,14
+7448,What is the feast day in November that celebrates all those who are with God in heaven?,30833,Pentecost,4,5,57.333333333333336,55
+7448,What is the feast day in November that celebrates all those who are with God in heaven?,30834,Easter,4,5,42.22222222222222,11
+7449,God calls us to ____________________ the life and dignity of every human person.,30835,ignore,4,5,52.77777777777778,4
+7449,God calls us to ____________________ the life and dignity of every human person.,30836,forget,4,5,43.03030303030303,11
+7449,God calls us to ____________________ the life and dignity of every human person.,30837,hate,4,5,41.111111111111114,2
+7449,God calls us to ____________________ the life and dignity of every human person.,30838,respect,4,5,66.8679692125518,563
+7450,When should we make an examination of conscience?,30839,After Communion,4,5,57.839506172839506,72
+7450,When should we make an examination of conscience?,30840,Everyday and especially before the Sacrament of Reconciliation,4,5,70.01254075746175,443
+7450,When should we make an examination of conscience?,30841,When we pray before a meal,4,5,49.92063492063492,56
+7450,When should we make an examination of conscience?,30842,Never,4,5,48.641975308641975,9
+7451,Evangelization and _____________________ are part of having a missionary spirit.,30843,penance,4,5,65.57870370370371,192
+7451,Evangelization and _____________________ are part of having a missionary spirit.,30844,service,4,5,71.43819143819144,231
+7451,Evangelization and _____________________ are part of having a missionary spirit.,30845,fasting,4,5,61.507246376811594,115
+7451,Evangelization and _____________________ are part of having a missionary spirit.,30846,perfection,4,5,53.492063492063494,42
+7597,During which of the following parts of the Mass do we receive Holy Communion?,31424,Introductory Rites,4,5,46.54136723788465,1207
+7597,During which of the following parts of the Mass do we receive Holy Communion?,31425,Liturgy of the Word,4,5,47.94956658786446,2823
+7597,During which of the following parts of the Mass do we receive Holy Communion?,31426,Liturgy of the Eucharist,4,5,63.26859903381642,27603
+7597,During which of the following parts of the Mass do we receive Holy Communion?,31427,Concluding Rites,4,5,49.38795314341166,1603
+7605,In heaven we will be in perfect _______________________ with God forever,31456,Clothing,4,5,42.33043019266297,842
+7605,In heaven we will be in perfect _______________________ with God forever,31457,Housing,4,5,53.45846116826085,3694
+7605,In heaven we will be in perfect _______________________ with God forever,31458,Union,4,5,64.4811217209966,24300
+7605,In heaven we will be in perfect _______________________ with God forever,31459,Entertainment,4,5,49.31594774214742,4400
+7618,Which is NOT a Spiritual Work of Mercy?,31508,Praying for the dead,4,5,54.44090962648757,2831
+7618,Which is NOT a Spiritual Work of Mercy?,31509,Honor your mother and father,4,5,69.79709843841972,6419
+7618,Which is NOT a Spiritual Work of Mercy?,31510,Forgiving a friend,4,5,60.73578396383535,3736
+7618,Which is NOT a Spiritual Work of Mercy?,31511,Counseling the doubtful ,4,5,58.59862026741885,20339
+7634,Virtue helps us make doing good a:,31572,Favor,4,5,52.42041837198727,5866
+7634,Virtue helps us make doing good a:,31573,Gift,4,5,51.55099577549789,3314
+7634,Virtue helps us make doing good a:,31574,Plan,4,5,49.259877573734,1200
+7634,Virtue helps us make doing good a:,31575,Habit,4,5,64.73278212811876,22862
